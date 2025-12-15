@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "title": "Cinematic AI Portrait",
+    "title": "Test Prompt One",
     "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1765770794/MindMorph_d0sz3d.jpg",
-    "prompt_encoded": "VWx0cmEgcmVhbGlzdGljIHBvcnRyYWl0IG9mIGEgbWFu..."
+    "prompt": "This is a test prompt for UI testing only"
   },
   {
     "id": 2,
-    "title": "Fantasy Landscape",
+    "title": "Test Prompt Two",
     "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1765770776/FAIZAN_jmsiq9.jpg",
-    "prompt_encoded": "RmFudGFzeSBsYW5kc2NhcGUgY2FyZHJhdHMgd2l0aCBsaWdodCBhbmQgY29sb3I..."
+    "prompt": "Another random prompt just to test loading"
   }
 ]
