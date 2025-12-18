@@ -3,7 +3,30 @@
     "id": 1,
     "title": "Test Prompt One",
     "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1765770794/MindMorph_d0sz3d.jpg",
-    "prompt": "This is a test prompt for UI testing only"
+    "prompt": "You are an advanced AI assistant capable of performing multiple tasks including creative writing, coding, data analysis, and design generation. Perform the following tasks step by step:
+
+                1. **Creative Writing:**  
+                   - Write a 250-word short story about a futuristic city where humans and AI coexist peacefully. Include at least one twist in the plot.  
+                   - Highlight emotions, futuristic technology, and societal interactions.  
+                
+                2. **Technical Task:**  
+                   - Generate a simple Python script that takes a CSV file of user data (name, email, age) and outputs a summary with the average age, number of users, and a list of unique names.  
+                
+                3. **Data Visualization:**  
+                   - Provide a Matplotlib example that visualizes the user ages as a histogram with proper labels, title, and grid.  
+                
+                4. **Prompt Engineering / AI Design:**  
+                   - Create three alternative prompts that could be given to ChatGPT to generate social media content for a tech startup. Each prompt should focus on a different style: humorous, informative, and inspirational.  
+                
+                5. **Image/Design Idea (Conceptual):**  
+                   - Describe a futuristic mobile app interface that combines AI-based personal assistant features with gamified daily productivity. Include color schemes, icons, and layout suggestions in your description.  
+                
+                6. **Summary & Notes:**  
+                   - Summarize all outputs clearly.  
+                   - Highlight any assumptions made during the tasks.  
+                
+                Ensure the outputs are clear, formatted properly, and ready for copy-pasting into other applications.  
+                "
   },
   {
     "id": 2,
