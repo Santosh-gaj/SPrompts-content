@@ -7,63 +7,63 @@
      flying cars zooming through the sky, holographic billboards, and towering skyscrapers covered in glowing advertisements. 
      People in futuristic outfits with LED accents are walking on the streets, while robotic street vendors sell glowing food. 
      Mist and rain create atmospheric reflections. Ultra-detailed, realistic lighting, cinematic perspective, dramatic shadows,
-     vibrant neon colors (pink, blue, purple), high resolution, 8k, concept art style, highly detailed, wide-angle view, immersive city environment.",
-     "category": "Men"  
+     vibrant neon colors (pink, blue, purple), high resolution, 8k, concept art style, highly detailed, wide-angle view, immersive city environment."
+       
 },
   {
     "id": 2,
     "title": "Test Prompt Two",
     "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1765770776/FAIZAN_jmsiq9.jpg",
-    "prompt": "Another random prompt just to test loading",
-    "category": "Men"
+    "prompt": "Another random prompt just to test loading"
+    
   },
   {
     "id": 3,
     "title": "Test Prompt Three",
     "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1765770791/3_axqecr.jpg",
-    "prompt": "Another random prompt just to test loading",
-    "category": "Men"  
+    "prompt": "Another random prompt just to test loading"
+      
   },
   {
     "id": 4,
     "title": "Test Prompt Four",
     "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1765770790/1_lrkwns.jpg",
-    "prompt": "Another random prompt just to test loading",
-    "category": "Men" 
+    "prompt": "Another random prompt just to test loading"
+     
   },
   {
     "id": 5,
     "title": "Test Prompt Five",
     "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1765770783/Ai_exfwww.jpg",
-    "prompt": "Another random prompt just to test loading",
-    "category": "Men"
+    "prompt": "Another random prompt just to test loading"
+    
   },
  {
     "id": 6,
     "title": "Test Prompt Six",
     "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766120620/women-viewing1_v1uijt.jpg",
-    "prompt": "Another random prompt just to test loading",
-    "category": "Women"
+    "prompt": "Another random prompt just to test loading"
+    
   },
  {
     "id": 7,
     "title": "Test Prompt Seven",
     "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766120621/women-animaited_qmdevu.jpg",
-    "prompt": "Another random prompt just to test loading",
-    "category": "Women"
+    "prompt": "Another random prompt just to test loading"
+    
   },
  {
     "id": 8,
     "title": "Test Prompt Eight",
     "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766120622/men-sited-on-the_-tree_be3yyt.jpg",
-    "prompt": "Another random prompt just to test loading",
-    "category": "Nature"
+    "prompt": "Another random prompt just to test loading"
+   
   },
  {
     "id": 9,
     "title": "Test Prompt Nine",
     "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766120622/naute-men-sit-headphone_nyvywt.jpg",
-    "prompt": "Another random prompt just to test loading",
-    "category": "Nature"
+    "prompt": "Another random prompt just to test loading"
+   
   }
 ]
