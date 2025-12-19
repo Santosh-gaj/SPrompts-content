@@ -10,21 +10,22 @@
     "id": 2,
     "title": "Test Prompt Two",
     "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1765770776/FAIZAN_jmsiq9.jpg",
-    "prompt": "Another random prompt just to test loading"
+    "prompt": "Another random prompt just to test loading",
     "category": "Men"
   },
   {
     "id": 3,
     "title": "Test Prompt Three",
     "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1765770791/3_axqecr.jpg",
-    "prompt": "Another random prompt just to test loading"
+    "prompt": "Another random prompt just to test loading",
     "category": "Men"  
   },
   {
     "id": 4,
     "title": "Test Prompt Four",
     "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1765770790/1_lrkwns.jpg",
-    "prompt": "Another random prompt just to test loading"
+    "prompt": "Another random prompt just to test loading",
+    "category": "Men" 
   },
   {
     "id": 5,
