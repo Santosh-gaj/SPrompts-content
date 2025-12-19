@@ -3,8 +3,12 @@
     "id": 1,
     "title": "Test Prompt One",
     "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1765770794/MindMorph_d0sz3d.jpg",
-    "prompt": "A stunning futuristic cyberpunk city at night, with neon lights reflecting off wet streets, flying cars zooming through the sky, holographic billboards, and towering skyscrapers covered in glowing advertisements. People in futuristic outfits with LED accents are walking on the streets, while robotic street vendors sell glowing food. Mist and rain create atmospheric reflections. Ultra-detailed, realistic lighting, cinematic perspective, dramatic shadows, vibrant neon colors (pink, blue, purple), high resolution, 8k, concept art style, highly detailed, wide-angle view, immersive city environment."
-    "category": "Men"  
+    "prompt": "A stunning futuristic cyberpunk city at night, with neon lights reflecting off wet streets,
+     flying cars zooming through the sky, holographic billboards, and towering skyscrapers covered in glowing advertisements. 
+     People in futuristic outfits with LED accents are walking on the streets, while robotic street vendors sell glowing food. 
+     Mist and rain create atmospheric reflections. Ultra-detailed, realistic lighting, cinematic perspective, dramatic shadows,
+     vibrant neon colors (pink, blue, purple), high resolution, 8k, concept art style, highly detailed, wide-angle view, immersive city environment.",
+     "category": "Men"  
 },
   {
     "id": 2,
