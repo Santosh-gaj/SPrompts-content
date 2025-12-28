@@ -8,16 +8,16 @@
     },
     {
         "id": 2,
-        "title": "1952 Styled",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766906226/1952Style_nvpwgq.jpg",
-        "prompt": "A hyper-realistic cinematic 3:4 vertical half-body portrait of a young man (25-28) with the exact face from reference image, leaning casually against a 1920s smoky bar table, holding a vintage walking cane. He wears Peaky Blinders-inspired attire-tailored wool three-piece suit, waistcoat, tie, and flat cap. Head slightly down, eyes locked on camera with an intense, confident stare. Warm, ambient lighting casts moody shadows; blurred crowd and glowing whisky bottles in soft bokeh create depth. Shot with 85mm f/1.4 lens, 8K quality, highlighting fabric textures and facial expression.",
+        "title": "Dodge Challenger–style",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766914607/men_Stand_Bg_car_cizxyv.jpg",
+        "prompt": "A highly cinematic, ultra-detailed full-body portrait of the subject standing confidently beside a dark, sleek sports car (Dodge Challenger–style) at a dimly lit gas station at night. The subject’s facial features and identity must remain exactly identical to the original reference photo, with no alteration. He looks directly into the camera with a cool, self-assured expression, wearing dark sunglasses, a plain white T-shirt, a loose grey bomber jacket, dark trousers, and sturdy shoes. His hands are casually placed in his pockets. Neon gas station lights cast dramatic highlights and deep shadows, creating a moody cinematic atmosphere. Shot in ultra-realistic photography style, sharp focus, high contrast, shallow depth of field, night cinematography, professional color grading, 8K quality. blurry, low resolution, face change, different identity, distorted face, extra limbs, extra fingers, bad anatomy, oversharpening, noise, watermark, logo, text",
         "category": "Men"
     },
     {
         "id": 3,
-        "title": "1952 Styled",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766906226/1952Style_nvpwgq.jpg",
-        "prompt": "A hyper-realistic cinematic 3:4 vertical half-body portrait of a young man (25-28) with the exact face from reference image, leaning casually against a 1920s smoky bar table, holding a vintage walking cane. He wears Peaky Blinders-inspired attire-tailored wool three-piece suit, waistcoat, tie, and flat cap. Head slightly down, eyes locked on camera with an intense, confident stare. Warm, ambient lighting casts moody shadows; blurred crowd and glowing whisky bottles in soft bokeh create depth. Shot with 85mm f/1.4 lens, 8K quality, highlighting fabric textures and facial expression.",
+        "title": "A boy standing",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766915079/image_2_h7kipi.jpg",
+        "prompt": "A cinematic ultrawide, low-angle shot of a young man standing in the same out-door setting. The man is leaning casually against a tall weathered concrete gate, surrounded by lush green branches and barbed wire above. The ground is wet, reflecting the rainy and misty atmosphere. a man wearing a white open rolled-up sleeve cargo shirt and black baggy cargo pant. Keep the misty forest pathway in the background with a dreamy, moody atmosphere.",
         "category": "Men"
     },
     {
