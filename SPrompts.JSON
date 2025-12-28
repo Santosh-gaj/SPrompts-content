@@ -1,65 +1,72 @@
 [
     {
         "id": 1,
-        "title": "Test Prompt One",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1765770794/MindMorph_d0sz3d.jpg",
-        "prompt": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "title": "1952 Styled",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766906226/1952Style_nvpwgq.jpg",
+        "prompt": "A hyper-realistic cinematic 3:4 vertical half-body portrait of a young man (25-28) with the exact face from reference image, leaning casually against a 1920s smoky bar table, holding a vintage walking cane. He wears Peaky Blinders-inspired attire-tailored wool three-piece suit, waistcoat, tie, and flat cap. Head slightly down, eyes locked on camera with an intense, confident stare. Warm, ambient lighting casts moody shadows; blurred crowd and glowing whisky bottles in soft bokeh create depth. Shot with 85mm f/1.4 lens, 8K quality, highlighting fabric textures and facial expression.",
         "category": "Men"
     },
     {
-        "id": 2,
-        "title": "Test Prompt Two",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1765770776/FAIZAN_jmsiq9.jpg",
-        "prompt": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "id": 1,
+        "title": "1952 Styled",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766906226/1952Style_nvpwgq.jpg",
+        "prompt": "A hyper-realistic cinematic 3:4 vertical half-body portrait of a young man (25-28) with the exact face from reference image, leaning casually against a 1920s smoky bar table, holding a vintage walking cane. He wears Peaky Blinders-inspired attire-tailored wool three-piece suit, waistcoat, tie, and flat cap. Head slightly down, eyes locked on camera with an intense, confident stare. Warm, ambient lighting casts moody shadows; blurred crowd and glowing whisky bottles in soft bokeh create depth. Shot with 85mm f/1.4 lens, 8K quality, highlighting fabric textures and facial expression.",
         "category": "Men"
     },
     {
-        "id": 3,
-        "title": "Test Prompt Three",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1765770791/3_axqecr.jpg",
-        "prompt": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "id": 1,
+        "title": "1952 Styled",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766906226/1952Style_nvpwgq.jpg",
+        "prompt": "A hyper-realistic cinematic 3:4 vertical half-body portrait of a young man (25-28) with the exact face from reference image, leaning casually against a 1920s smoky bar table, holding a vintage walking cane. He wears Peaky Blinders-inspired attire-tailored wool three-piece suit, waistcoat, tie, and flat cap. Head slightly down, eyes locked on camera with an intense, confident stare. Warm, ambient lighting casts moody shadows; blurred crowd and glowing whisky bottles in soft bokeh create depth. Shot with 85mm f/1.4 lens, 8K quality, highlighting fabric textures and facial expression.",
         "category": "Men"
     },
     {
-        "id": 4,
-        "title": "Test Prompt Four",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1765770790/1_lrkwns.jpg",
-        "prompt": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "id": 1,
+        "title": "1952 Styled",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766906226/1952Style_nvpwgq.jpg",
+        "prompt": "A hyper-realistic cinematic 3:4 vertical half-body portrait of a young man (25-28) with the exact face from reference image, leaning casually against a 1920s smoky bar table, holding a vintage walking cane. He wears Peaky Blinders-inspired attire-tailored wool three-piece suit, waistcoat, tie, and flat cap. Head slightly down, eyes locked on camera with an intense, confident stare. Warm, ambient lighting casts moody shadows; blurred crowd and glowing whisky bottles in soft bokeh create depth. Shot with 85mm f/1.4 lens, 8K quality, highlighting fabric textures and facial expression.",
         "category": "Men"
     },
     {
-        "id": 5,
-        "title": "Test Prompt Five",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1765770783/Ai_exfwww.jpg",
-        "prompt": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "id": 1,
+        "title": "1952 Styled",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766906226/1952Style_nvpwgq.jpg",
+        "prompt": "A hyper-realistic cinematic 3:4 vertical half-body portrait of a young man (25-28) with the exact face from reference image, leaning casually against a 1920s smoky bar table, holding a vintage walking cane. He wears Peaky Blinders-inspired attire-tailored wool three-piece suit, waistcoat, tie, and flat cap. Head slightly down, eyes locked on camera with an intense, confident stare. Warm, ambient lighting casts moody shadows; blurred crowd and glowing whisky bottles in soft bokeh create depth. Shot with 85mm f/1.4 lens, 8K quality, highlighting fabric textures and facial expression.",
         "category": "Men"
     },
     {
-        "id": 6,
-        "title": "Test Prompt Six",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766120620/women-viewing1_v1uijt.jpg",
-        "prompt": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "category": "Women"
+        "id": 1,
+        "title": "1952 Styled",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766906226/1952Style_nvpwgq.jpg",
+        "prompt": "A hyper-realistic cinematic 3:4 vertical half-body portrait of a young man (25-28) with the exact face from reference image, leaning casually against a 1920s smoky bar table, holding a vintage walking cane. He wears Peaky Blinders-inspired attire-tailored wool three-piece suit, waistcoat, tie, and flat cap. Head slightly down, eyes locked on camera with an intense, confident stare. Warm, ambient lighting casts moody shadows; blurred crowd and glowing whisky bottles in soft bokeh create depth. Shot with 85mm f/1.4 lens, 8K quality, highlighting fabric textures and facial expression.",
+        "category": "Men"
     },
     {
-        "id": 7,
-        "title": "Test Prompt Seven",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766120621/women-animaited_qmdevu.jpg",
-        "prompt": "Another random prompt just to test loading",
-        "category": "Women"
+        "id": 1,
+        "title": "1952 Styled",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766906226/1952Style_nvpwgq.jpg",
+        "prompt": "A hyper-realistic cinematic 3:4 vertical half-body portrait of a young man (25-28) with the exact face from reference image, leaning casually against a 1920s smoky bar table, holding a vintage walking cane. He wears Peaky Blinders-inspired attire-tailored wool three-piece suit, waistcoat, tie, and flat cap. Head slightly down, eyes locked on camera with an intense, confident stare. Warm, ambient lighting casts moody shadows; blurred crowd and glowing whisky bottles in soft bokeh create depth. Shot with 85mm f/1.4 lens, 8K quality, highlighting fabric textures and facial expression.",
+        "category": "Men"
     },
     {
-        "id": 8,
-        "title": "Test Prompt Eight",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766120622/men-sited-on-the_-tree_be3yyt.jpg",
-        "prompt": "Another random prompt just to test loading",
-        "category": "Nature"
+        "id": 1,
+        "title": "1952 Styled",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766906226/1952Style_nvpwgq.jpg",
+        "prompt": "A hyper-realistic cinematic 3:4 vertical half-body portrait of a young man (25-28) with the exact face from reference image, leaning casually against a 1920s smoky bar table, holding a vintage walking cane. He wears Peaky Blinders-inspired attire-tailored wool three-piece suit, waistcoat, tie, and flat cap. Head slightly down, eyes locked on camera with an intense, confident stare. Warm, ambient lighting casts moody shadows; blurred crowd and glowing whisky bottles in soft bokeh create depth. Shot with 85mm f/1.4 lens, 8K quality, highlighting fabric textures and facial expression.",
+        "category": "Men"
     },
     {
-        "id": 9,
-        "title": "Test Prompt Nine",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766120622/naute-men-sit-headphone_nyvywt.jpg",
-        "prompt": "Another random prompt just to test loading",
-        "category": "Nature"
+        "id": 1,
+        "title": "1952 Styled",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766906226/1952Style_nvpwgq.jpg",
+        "prompt": "A hyper-realistic cinematic 3:4 vertical half-body portrait of a young man (25-28) with the exact face from reference image, leaning casually against a 1920s smoky bar table, holding a vintage walking cane. He wears Peaky Blinders-inspired attire-tailored wool three-piece suit, waistcoat, tie, and flat cap. Head slightly down, eyes locked on camera with an intense, confident stare. Warm, ambient lighting casts moody shadows; blurred crowd and glowing whisky bottles in soft bokeh create depth. Shot with 85mm f/1.4 lens, 8K quality, highlighting fabric textures and facial expression.",
+        "category": "Men"
+    },
+    {
+        "id": 1,
+        "title": "1952 Styled",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766906226/1952Style_nvpwgq.jpg",
+        "prompt": "A hyper-realistic cinematic 3:4 vertical half-body portrait of a young man (25-28) with the exact face from reference image, leaning casually against a 1920s smoky bar table, holding a vintage walking cane. He wears Peaky Blinders-inspired attire-tailored wool three-piece suit, waistcoat, tie, and flat cap. Head slightly down, eyes locked on camera with an intense, confident stare. Warm, ambient lighting casts moody shadows; blurred crowd and glowing whisky bottles in soft bokeh create depth. Shot with 85mm f/1.4 lens, 8K quality, highlighting fabric textures and facial expression.",
+        "category": "Men"
     }
 ]
