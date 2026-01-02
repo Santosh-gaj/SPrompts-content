@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "title": "1952 Style",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766906226/1952Style_nvpwgq.jpg",
-        "prompt": "A hyper-realistic cinematic 3:4 vertical half-body portrait of a young man (25-28) with the exact face from reference image, leaning casually against a 1920s smoky bar table, holding a vintage walking cane. He wears Peaky Blinders-inspired attire-tailored wool three-piece suit, waistcoat, tie, and flat cap. Head slightly down, eyes locked on camera with an intense, confident stare. Warm, ambient lighting casts moody shadows; blurred crowd and glowing whisky bottles in soft bokeh create depth. Shot with 85mm f/1.4 lens, 8K quality, highlighting fabric textures and facial expression.",
-        "category": "Men"
+        "title": "Midnight Blue Café Glow",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767376800/IMG_001_v2lscz.jpg",
+        "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference. The subject’s face identity must remain 100% unchanged and perfectly preserved. Create a cinematic low-light portrait of a young woman seated in a modern cafe or lounge at night, leaning back casually with relaxed confidence. Cool blue ambient lighting washes across her face and clothing, with warm bokeh lights softly glowing in the background. She wears a minimal, stylish outfit with natural textures. Shot in shallow depth of field, realistic skin texture, soft shadows, cinematic color grading, photorealistic, 8K quality. GIVE ME TITLE FOR THIS PROMPT",
+        "category": "Women"
     },
     {
         "id": 2,
@@ -15,10 +15,10 @@
     },
     {
         "id": 3,
-        "title": "A Boy Standing",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766915079/image_2_h7kipi.jpg",
-        "prompt": "Using the reference image as the main subject and facial structure, A cinematic ultrawide, low-angle shot of a young man standing in the same out-door setting. The man is leaning casually against a tall weathered concrete gate, surrounded by lush green branches and barbed wire above. The ground is wet, reflecting the rainy and misty atmosphere. a man wearing a white open rolled-up sleeve cargo shirt and black baggy cargo pant. Keep the misty forest pathway in the background with a dreamy, moody atmosphere.",
-        "category": "Men"
+        "title": "Echoes of Self",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767376800/IMG_003_mfgecs.jpg",
+        "prompt": "Using the uploaded image as the ONLY facial reference, preserve exact identity and expression. Create an artistic portrait of a young woman sitting cross-legged on a studio floor, wearing casual modern clothing. Behind her, a soft faded double-exposure silhouette of her profile appears on the wall, symbolizing reflection and memory. Neutral tones, soft natural lighting, minimal background, cinematic composition, realistic textures, emotional storytelling, shallow depth of field, ultra-realistic 8K.",
+        "category": "Women"
     },
     {
         "id": 4,
@@ -29,9 +29,9 @@
     },
     {
         "id": 5,
-        "title": "Standing with Flowers",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766919406/Women_With_flower_tzi6a5.jpg",
-        "prompt": "Using the uploaded reference image as the primary subject, facial structure, and pose, create a cinematic, vintage-style street photograph. A young woman stands on a city sidewalk, viewed from a high-angle perspective, looking up toward the camera with a soft, emotional, slightly melancholic expression. Natural makeup, expressive eyes, softly parted lips. Dark brown hair, center-parted, naturally styled with loose strands framing her face. She wears a long classic plaid wool coat with a timeless European aesthetic. In one hand, she gently holds a bouquet of deep red roses with rich textures and realistic petals. In the other hand, she carries a simple brown paper shopping bag. The scene feels candid and cinematic, as if captured from a window or balcony above. Blurred silhouettes of people walking past create motion blur and a sense of life and movement. Textured stone pavement below, slightly cool-toned. Soft natural daylight with a nostalgic glow, diffused as if shot through glass or haze. Gentle highlights, soft shadows, subtle contrast. Muted filmic color grading with warm skin tones, desaturated greens and blues, and deep reds in the roses standing out. Vintage analog film look inspired by 1970s–1990s street photography, subtle film grain, slight edge blur, dreamy atmosphere. Shot on a 35mm film camera, shallow depth of field, realistic textures, cinematic realism, emotional storytelling, timeless aesthetic, high-quality photograph, natural imperfections, soft focus, organic feel.",
+        "title": "Stillness in Motion",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767376799/IMG_005_jag127.jpg",
+        "prompt": "Use the uploaded image as the ONLY facial identity reference. Create a cinematic street portrait of a young woman standing in a busy city environment. She turns her head slightly to look back toward the camera with a calm, mysterious expression. Background is desaturated with moving crowd blur, while her face remains sharp. Moody lighting, film-style color grading, shallow depth of field, emotional atmosphere, photorealistic, 8K.",
         "category": "Women"
     },
     {
@@ -43,9 +43,9 @@
     },
     {
         "id": 7,
-        "title": "Yellow Dressup",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766941288/Yellow_Dressed_g9jig6.jpg",
-        "prompt": "genrate img Ultra-cinematic fashion portrait, preserve exact facial structure and identity from the uploaded photo, medium close-up framing, confident calm expression, modern monochrome mustard-yellow outfit with tailored blazer and high-neck top, natural golden-hour sunlight entering from the side, strong directional light with soft cinematic shadows, warm tones, realistic skin texture with natural pores, slightly tousled medium-length hair, minimal blurred background with window light shapes, shallow depth of field, professional DSLR photography, 85mm lens, Vogue-style editorial, ultra high detail",
+        "title": "Power in Black",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767376799/IMG_007_gafvlw.jpg",
+        "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference. The subject’s face identity must remain 100% unchanged and perfectly preserved—no alteration to facial structure, proportions, skin tone, expression, or features. Create a high-fashion cinematic editorial portrait of a young woman dressed in an all-black elegant outfit, seated confidently on the hood of a luxury car. She wears oversized designer sunglasses, statement earrings, and pointed heels. Pose is relaxed yet powerful, one leg bent, hand subtly lifted. Natural daylight with soft shadows, neutral architectural background, shallow depth of field, realistic skin texture, fabric details clearly visible. Editorial photography style, luxury mood, cinematic color grading, ultra-realistic, 8K quality.",
         "category": "Women"
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "id": 9,
-        "title": "Yellow Galssed with letters",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766941732/Yellow_Sepect_lnxjw9.jpg",
-        "prompt": "Ultra-cinematic futuristic tech portrait, preserve exact facial structure, identity, and expression from uploaded photo, close-up framing, calm intelligent gaze, translucent glowing yellow smart glasses, holographic mathematical equations and scientific symbols projected on face, glasses, and clothing, modern yellow techwear jacket with glossy reflective material, warm golden hologram light mixed with cool teal ambient lighting, cinematic color contrast, realistic skin texture with natural pores, sharp expressive eyes, hair tied in a casual bun with soft loose strands, abstract teal and cyan bokeh background, shallow depth of field, professional digital photography, ultra high resolution, cinematic sci-fi editorial style","negative_prompt":"low quality, blurry, flat lighting, harsh flash, cartoon, anime, illustration, CGI, plastic skin, over-smoothed face, distorted facial features, altered identity, extra fingers, extra limbs, bad hands, deformed face, noise, grain, watermark, logo, text artifacts, oversaturated colors",
+        "title": "Neon Call at Midnight",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767376800/IMG_009_yq3wws.jpg",
+        "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference. Preserve exact facial identity with zero change. Create a cinematic nighttime urban portrait of a young woman standing beside a red phone booth on a narrow city street. She wears a denim jacket over a casual outfit. Neon and street lights cast teal and warm highlights across her face. Background features soft city bokeh, signs, and distant traffic blur. Moody atmosphere, film-style color grading, shallow depth of field, realistic skin texture, sharp facial focus, photorealistic, ultra-detailed 8K.",
         "category": "Women"
     },
     {
