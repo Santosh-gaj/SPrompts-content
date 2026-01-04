@@ -78,9 +78,9 @@
     },
     {
         "id": 32,
-        "title": "Dodge Challenger–style",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766914607/men_Stand_Bg_car_cizxyv.jpg",
-        "prompt": "A highly cinematic, ultra-detailed full-body portrait of the subject standing confidently beside a dark, sleek sports car (Dodge Challenger–style) at a dimly lit gas station at night. The subject’s facial features and identity must remain exactly identical to the original reference photo, with no alteration. He looks directly into the camera with a cool, self-assured expression, wearing dark sunglasses, a plain white T-shirt, a loose grey bomber jacket, dark trousers, and sturdy shoes. His hands are casually placed in his pockets. Neon gas station lights cast dramatic highlights and deep shadows, creating a moody cinematic atmosphere. Shot in ultra-realistic photography style, sharp focus, high contrast, shallow depth of field, night cinematography, professional color grading, 8K quality. blurry, low resolution, face change, different identity, distorted face, extra limbs, extra fingers, bad anatomy, oversharpening, noise, watermark, logo, text.",
+        "title": "Luxury Bathroom Golden Hour Portrait",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767510457/IMG_032_sshrvq.jpg",
+        "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference. The subject’s face identity must remain 100% UNCHANGED and PERFECTLY PRESERVED. Do NOT alter facial structure, proportions, symmetry, skin tone, skin texture, age, gender, expression, jawline, cheekbones, nose, lips, eyes, eyebrows, forehead, hairline, or facial hair. Exact likeness is mandatory.\n\nGenerate an ultra-realistic cinematic portrait in vertical 9:16 aspect ratio, final resolution 1080×1920. Frame the subject from head down to just below the knees (near-knee crop). If the uploaded image is not full-body, intelligently extend the lower body, arms, and environment in a seamless, realistic way that perfectly matches lighting, perspective, and depth.\n\nScene & Styling: A luxury modern bathroom with warm golden ambient lighting, soft reflections from mirrors, and elegant fixtures. The subject is leaning slightly forward over a marble sink, hands together under flowing water, water droplets visible on skin and beard. He wears a plush white luxury bathrobe with rich texture and natural folds. A premium wristwatch is visible on the wrist.\n\nLighting & Camera: Soft warm cinematic lighting, subtle highlights on wet skin, shallow depth of field, realistic reflections, professional fashion editorial look. Ultra-photorealistic, 8K quality, natural skin texture, high dynamic range.",
         "category": "Men"
     },
     {
@@ -92,10 +92,10 @@
     },
     {
         "id": 34,
-        "title": "Seeing back in the bus",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766918843/Girl_looking_back_xdb0co.jpg",
-        "prompt": "Using the reference image as the main subject and facial structure, create a cinematic night-time portrait of a young woman inside a subway train. She is seated near the window, gently looking back over her shoulder with a quiet, emotional expression. Her hair is slightly messy and natural. Soft reflections appear on the train glass, with blurred neon city lights passing outside the window. The lighting feels low and intimate, mixing warm interior metro lights with cool city glow from outside. The background is softly blurred, creating a dreamy bokeh effect. The mood is cinematic, emotional, and atmospheric, inspired by Wong Kar-wai–style film aesthetics, with subtle film grain and natural color tones.",
-        "category": "Women"
+        "title": "Sunset Yacht Lifestyle Portrait",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767510459/IMG_034_gp4ygx.jpg",
+        "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference. Preserve the subject’s face exactly as provided. No changes to facial features, hairline, beard, or expression are allowed.\n\nCreate a cinematic lifestyle portrait in vertical 9:16 format, final resolution 1080×1920. Capture the subject from head to near knees. If the reference image is cropped, realistically outpaint the lower body, deck, and surroundings to maintain perfect proportions.\n\nScene: A luxury yacht at sea during sunset. The subject is reclining casually on a wooden yacht deck, one arm relaxed, body angled slightly toward the camera. He wears a fitted black open-collar shirt, light beige trousers, dark sunglasses, and a subtle chain necklace. A leather wallet or phone rests nearby.\n\nAtmosphere & Lighting: Warm sunset glow, soft orange-pink sky, gentle reflections on water, cinematic color grading, shallow depth of field. High-end fashion editorial vibe, ultra-realistic skin, sharp focus on face, background softly blurred.",
+        "category": "Men"
     },
     {
         "id": 35,
@@ -106,10 +106,10 @@
     },
     {
         "id": 36,
-        "title": "Listing Music",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766920181/Women_with_headphone_xxqtzt.jpg",
-        "prompt": "Using the uploaded reference image as the primary subject, exact facial structure, expression, pose, and lighting reference, create a cinematic black-and-white portrait photograph. A young woman is shown in a close-up to medium portrait, facing slightly to the side with her eyes gently closed and a peaceful, content smile on her face. Strong directional light enters through window blinds, casting dramatic horizontal shadow lines across her face, hair, and upper body. The lighting is high-contrast yet soft, creating deep shadows and glowing highlights, emphasizing facial contours, cheekbones, nose bridge, and lips. Her hair is dark, long, and naturally flowing over her shoulders with realistic texture and subtle shine. She wears casual clothing with a relaxed, intimate feel, and over-ear headphones rest naturally around her neck, adding a modern, lifestyle element. The background is minimal and dark, fading smoothly into shadow to keep full focus on the subject. The mood is calm, introspective, and artistic, evoking quiet moments of solitude and self-reflection. Shot as fine-art black-and-white photography with rich tonal range, smooth gradients, realistic skin texture, natural imperfections, subtle film grain, and organic softness. Inspired by classic portrait photography and cinematic light-and-shadow storytelling. High-resolution, shallow depth of field, soft focus falloff, timeless aesthetic, emotional realism, professional studio-quality photograph.",
-        "category": "Women"
+        "title": "Elegant Park Bench Summer Portrait",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767510455/IMG_036_nbbysu.jpg",
+        "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference. The subject’s face must remain 100% identical with no alterations whatsoever.\n\nGenerate a photorealistic cinematic portrait in vertical 9:16 (1080×1920). Frame from head to just below the knees. If the original image lacks full body, extend legs, bench, and ground naturally with correct perspective.\n\nScene & Outfit: A serene green park during daylight. The subject is seated confidently on a wooden bench, arms relaxed along the backrest. He wears a lightweight off-white linen shirt slightly open at the collar, cream trousers, loafers, dark sunglasses, and a delicate necklace.\n\nLighting & Mood: Natural sunlight filtering through trees, soft shadows, vibrant greenery with bokeh background. Editorial men’s fashion photography style, crisp focus, realistic textures, cinematic clarity.",
+        "category": "Men"
     },
     {
         "id": 37,
@@ -120,9 +120,9 @@
     },
     {
         "id": 38,
-        "title": "Showing finger to Angle",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766942904/showing_finger_to_the_camera_y0qgoq.jpg",
-        "prompt": "Ultra-realistic cinematic street-fashion portrait using the uploaded reference image as the primary identity source, exact facial structure, jawline, skin texture, eyebrows, lips and expression preserved, young masculine person shot from a low-angle wide-angle perspective, subject centered and looking directly into the camera with a calm confident slightly intense expression, wearing round black vintage sunglasses with subtle reflections, black beanie layered under a hooded sweatshirt, oversized distressed military-style jacket with visible fabric wear seams folds and realistic textile texture, multiple engraved silver rings with metallic shine on extended hand reaching toward the lens creating strong foreground depth, cross-body designer sling bag with detailed leather grain and stitching, modern brutalist city architecture overhead with repeating geometric concrete lines forming strong leading lines and symmetry, overcast daylight with soft diffused natural lighting, neutral cinematic color palette of muted greys blacks and olive tones, shallow depth of field with sharp focus on face and hand, cinematic wide-angle perspective distortion, ultra-high resolution hyper-detailed skin pores fabric fibers and metal reflections, editorial fashion photography streetwear aesthetic minimalist background professional cinematic color grading razor-sharp clarity","negative_prompt":"low quality blurry soft focus cartoon anime illustration CGI 3D render painterly plastic skin waxy face unrealistic skin over-smoothing distorted face asymmetrical eyes bad anatomy extra fingers missing fingers deformed hands distorted accessories incorrect perspective duplicate face multiple heads watermark logo text oversaturated colors harsh contrast fisheye distortion motion blur jpeg artifacts","style":"photorealistic","camera":"24mm wide-angle lens f/2.8 ISO 100","lighting":"soft natural overcast daylight","quality":"8K ultra-high detail","mood":"confident modern urban cinematic",
+        "title": "Urban Iconic Landmark Street Style",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767510454/IMG_038_ix3sfm.jpg",
+        "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference. Preserve the exact facial likeness, expression, and grooming without modification.\n\nProduce an ultra-realistic cinematic street-style portrait in vertical 9:16, 1080×1920 resolution. Capture a full near-knee shot. If the image is cropped, outpaint legs, street surface, and background architecture seamlessly.\n\nScene: An iconic historic urban landmark with grand architecture in the background. The subject stands confidently in the center of the frame, hands in pockets. He wears a red textured shirt or jacket, light blue trousers, casual sneakers, and dark sunglasses. Birds are flying around, frozen mid-motion for cinematic effect.\n\nVisual Style: Soft daylight, cinematic depth, balanced contrast, subtle motion energy, fashion-editorial street photography look. Ultra-detailed textures, sharp facial focus.",
         "category": "Men"
     },
     {
@@ -134,9 +134,9 @@
     },
     {
         "id": 40,
-        "title": "Sitted men under the Bridge",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766944492/image_2_b6wpxm.jpg",
-        "prompt": "genrate img Ultra-realistic cinematic high-angle street photography of a bearded man sitting on asphalt under a concrete bridge pillar covered in detailed graffiti. He is wearing a crisp white t-shirt with 'SPROMPT' text and vibrant red high-top sneakers. Dramatic long-exposure light trails from passing cars in glowing red and orange streak across the frame. Urban city skyline with illuminated skyscrapers in the background at night. Teal and orange cinematic color grading, neon noir aesthetic. Sharp focus on the subject, hyper-realistic textures on skin, clothing, and concrete surfaces. Shot on a 35mm lens, 8k resolution, photorealistic lighting, subtle atmospheric haze, reflective wet asphalt enhancing light trails, cinematic depth of field.",
+        "title": "Relaxed Indoor Natural Light Portrait",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767510458/IMG_040_ifazcu.jpg",
+        "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference. The subject’s face must be preserved perfectly with zero alterations.\n\nCreate a hyper-realistic cinematic indoor portrait in vertical 9:16, final size 1080×1920. Frame the subject from head to just below the knees. If needed, realistically extend torso, legs, sofa, and floor while maintaining natural proportions.\n\nScene & Pose: A cozy modern interior with brick or textured walls and soft natural window light. The subject is seated on a sofa, leaning back comfortably, head slightly tilted upward with a calm, content expression. He wears a beige or neutral-toned open shirt, minimal jewelry, and relaxed styling.\n\nLighting & Finish: Soft diffused daylight, warm skin tones, shallow depth of field, cinematic realism, professional lifestyle photography aesthetic, ultra-sharp face with smooth background blur.",
         "category": "Men"
     }
 ]
