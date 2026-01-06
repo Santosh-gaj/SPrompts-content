@@ -2,142 +2,140 @@
 [
     {
         "id": 41,
-        "title": "1952 Style",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766906226/1952Style_nvpwgq.jpg",
-        "prompt": "A hyper-realistic cinematic 3:4 vertical half-body portrait of a young man (25-28) with the exact face from reference image, leaning casually against a 1920s smoky bar table, holding a vintage walking cane. He wears Peaky Blinders-inspired attire-tailored wool three-piece suit, waistcoat, tie, and flat cap. Head slightly down, eyes locked on camera with an intense, confident stare. Warm, ambient lighting casts moody shadows; blurred crowd and glowing whisky bottles in soft bokeh create depth. Shot with 85mm f/1.4 lens, 8K quality, highlighting fabric textures and facial expression.",
-        "category": "Men"
+        "title": "Romantic Beach Pillow Pose",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767720555/IMG_041_t1remd.jpg",
+        "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference for both subjects. Preserve both individuals’ facial structure, proportions, skin tone, age, gender, expressions, and unique facial features exactly as in the uploaded image. Do NOT alter faces in any way.\n\nGenerate an ultra-realistic cinematic couple portrait in vertical 1080x1920 resolution. Scene: a serene beach shoreline with gentle ocean waves washing over dark wet sand. The couple is lying side-by-side on the sand, heads resting on soft white pillows, bodies aligned parallel to the shoreline. They are holding hands naturally between them, gazing into each other’s eyes with warm, relaxed smiles.\n\nClothing: Man wears a short-sleeve tropical floral shirt and rolled-up dark trousers. Woman wears a soft, flowy floral two-piece or dress with semi-transparent fabric. Both are barefoot. Hair appears naturally wind-touched.\n\nLighting: soft natural daylight, slightly diffused, no harsh shadows. Mood: intimate, calm, romantic, dreamy. Camera angle: perfectly top-down aerial perspective.\n\nFraming: near-knee crop. If the uploaded image is not full-body, seamlessly extend legs, sand texture, shoreline, and waves with correct perspective and lighting continuity. Ultra-realistic skin texture, cinematic color grading, shallow contrast, high detail.",
+        "category": "Couple"
     },
-    {
+     {
         "id": 42,
-        "title": "Dodge Challenger–style",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766914607/men_Stand_Bg_car_cizxyv.jpg",
-        "prompt": "A highly cinematic, ultra-detailed full-body portrait of the subject standing confidently beside a dark, sleek sports car (Dodge Challenger–style) at a dimly lit gas station at night. The subject’s facial features and identity must remain exactly identical to the original reference photo, with no alteration. He looks directly into the camera with a cool, self-assured expression, wearing dark sunglasses, a plain white T-shirt, a loose grey bomber jacket, dark trousers, and sturdy shoes. His hands are casually placed in his pockets. Neon gas station lights cast dramatic highlights and deep shadows, creating a moody cinematic atmosphere. Shot in ultra-realistic photography style, sharp focus, high contrast, shallow depth of field, night cinematography, professional color grading, 8K quality. blurry, low resolution, face change, different identity, distorted face, extra limbs, extra fingers, bad anatomy, oversharpening, noise, watermark, logo, text.",
-        "category": "Men"
+        "title": "Heart Hands Sky Portrait",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767720553/IMG_042_mjwm4z.jpg",
+        "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference for both subjects. Facial identity must remain 100% unchanged and perfectly preserved.\n\nCreate a bright, joyful cinematic couple portrait in vertical 1080x1920 resolution. Scene: clear open sky with a vibrant blue background, no distractions. The couple stands close together, arms raised above their heads forming a heart shape with their hands. Both are smiling directly at the camera.\n\nClothing: Man wears a light pastel or off-white casual t-shirt. Woman wears a traditional yellow outfit with delicate embroidery. Hair is softly styled and natural.\n\nLighting: strong natural daylight, evenly lit faces, cheerful tone. Camera angle: slightly low angle looking upward, enhancing openness and positivity.\n\nFraming: head to just below the knees. If the uploaded image is cropped, intelligently extend torsos, arms, clothing, and background sky while preserving realism, proportions, and perspective. Clean, vibrant colors, ultra-realistic details, social-media-ready composition.",
+        "category": "Couple"
     },
-    {
+     {
         "id": 43,
-        "title": "A Boy Standing",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766915079/image_2_h7kipi.jpg",
-        "prompt": "Using the reference image as the main subject and facial structure, A cinematic ultrawide, low-angle shot of a young man standing in the same out-door setting. The man is leaning casually against a tall weathered concrete gate, surrounded by lush green branches and barbed wire above. The ground is wet, reflecting the rainy and misty atmosphere. a man wearing a white open rolled-up sleeve cargo shirt and black baggy cargo pant. Keep the misty forest pathway in the background with a dreamy, moody atmosphere.",
-        "category": "Men"
-    },
-    {
+        "title": "Bougainvillea Garden Couple",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767720555/IMG_043_bbokiq.jpg",
+        "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference for both individuals. Do NOT modify facial features, expressions, or skin texture.\n\nGenerate an ultra-realistic romantic couple portrait in vertical 1080x1920 resolution. Scene: lush outdoor garden filled with dense pink bougainvillea flowers covering the background wall. The couple stands close, the woman gently leaning into the man, her hand resting on his chest or waist. Both look calm and emotionally connected.\n\nClothing: Coordinated deep maroon outfits. Woman wears a flowing long dress with soft fabric folds. Man wears a casual maroon shirt and blue jeans with one hand in pocket.\n\nLighting: soft natural daylight, warm tones, gentle shadows. Depth: shallow depth of field with creamy floral bokeh.\n\nFraming: near-knee crop. If image is not full-length, seamlessly extend lower body, dress fabric, and garden ground with correct lighting and depth. Cinematic color grading, natural skin tones, high realism.",
+        "category": "Couple"
+    }, {
         "id": 44,
-        "title": "Seeing back in the bus",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766918843/Girl_looking_back_xdb0co.jpg",
-        "prompt": "Using the reference image as the main subject and facial structure, create a cinematic night-time portrait of a young woman inside a subway train. She is seated near the window, gently looking back over her shoulder with a quiet, emotional expression. Her hair is slightly messy and natural. Soft reflections appear on the train glass, with blurred neon city lights passing outside the window. The lighting feels low and intimate, mixing warm interior metro lights with cool city glow from outside. The background is softly blurred, creating a dreamy bokeh effect. The mood is cinematic, emotional, and atmospheric, inspired by Wong Kar-wai–style film aesthetics, with subtle film grain and natural color tones.",
-        "category": "Women"
-    },
-    {
+        "title": "Traditional Saree Intimate Moment",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767720554/IMG_044_egqc4a.jpg",
+        "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference for both subjects. Preserve exact facial likeness with no alterations.\n\nCreate a cinematic, intimate couple portrait in vertical 1080x1920 resolution. Scene: heritage or rustic outdoor setting with softly blurred neutral walls and greenery. The couple stands close, facing each other with affectionate eye contact.\n\nClothing: Woman wears an elegant deep blue saree with gold motifs and traditional drape. Man wears a classic white kurta. Hair is styled naturally; minimal traditional accessories.\n\nLighting: soft cinematic daylight with warm highlights and gentle shadows. Mood: romantic, cultural, timeless.\n\nFraming: head to just below the knees. If original image is cropped, intelligently extend saree pleats, lower body, and background while maintaining fabric realism and perspective. Ultra-realistic textures, cinematic grading, shallow depth of field.",
+        "category": "Couple"
+    }, {
         "id": 45,
-        "title": "Standing with Flowers",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766919406/Women_With_flower_tzi6a5.jpg",
-        "prompt": "Using the uploaded reference image as the primary subject, facial structure, and pose, create a cinematic, vintage-style street photograph. A young woman stands on a city sidewalk, viewed from a high-angle perspective, looking up toward the camera with a soft, emotional, slightly melancholic expression. Natural makeup, expressive eyes, softly parted lips. Dark brown hair, center-parted, naturally styled with loose strands framing her face. She wears a long classic plaid wool coat with a timeless European aesthetic. In one hand, she gently holds a bouquet of deep red roses with rich textures and realistic petals. In the other hand, she carries a simple brown paper shopping bag. The scene feels candid and cinematic, as if captured from a window or balcony above. Blurred silhouettes of people walking past create motion blur and a sense of life and movement. Textured stone pavement below, slightly cool-toned. Soft natural daylight with a nostalgic glow, diffused as if shot through glass or haze. Gentle highlights, soft shadows, subtle contrast. Muted filmic color grading with warm skin tones, desaturated greens and blues, and deep reds in the roses standing out. Vintage analog film look inspired by 1970s–1990s street photography, subtle film grain, slight edge blur, dreamy atmosphere. Shot on a 35mm film camera, shallow depth of field, realistic textures, cinematic realism, emotional storytelling, timeless aesthetic, high-quality photograph, natural imperfections, soft focus, organic feel.",
-        "category": "Women"
+        "title": "Couple Bike Ride Romance",
+        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767720555/IMG_045_armypb.jpg",
+        "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference for both individuals. Faces must remain 100% unchanged.\n\nGenerate an ultra-realistic cinematic couple portrait in vertical 1080x1920 resolution. Scene: tree-lined urban road with soft green canopy overhead and blurred cars in the background. The man rides a classic motorcycle while the woman sits behind him, arms wrapped around his shoulders, smiling warmly.\n\nClothing: Man wears a fitted blue t-shirt and jeans. Woman wears a casual green top and patterned pants, hair flowing naturally in motion.\n\nLighting: natural daylight, balanced exposure, subtle motion feel. Camera angle: frontal, centered on motorcycle headlight.\n\nFraming: near-knee crop. If image is cropped, seamlessly extend legs, motorcycle body, road surface, and background traffic with correct scale and motion blur. Cinematic realism, high detail, lifestyle photography look.",
+        "category": "Couple"
     },
     {
-        "id": 46,
-        "title": "Listing Music",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766920181/Women_with_headphone_xxqtzt.jpg",
-        "prompt": "Using the uploaded reference image as the primary subject, exact facial structure, expression, pose, and lighting reference, create a cinematic black-and-white portrait photograph. A young woman is shown in a close-up to medium portrait, facing slightly to the side with her eyes gently closed and a peaceful, content smile on her face. Strong directional light enters through window blinds, casting dramatic horizontal shadow lines across her face, hair, and upper body. The lighting is high-contrast yet soft, creating deep shadows and glowing highlights, emphasizing facial contours, cheekbones, nose bridge, and lips. Her hair is dark, long, and naturally flowing over her shoulders with realistic texture and subtle shine. She wears casual clothing with a relaxed, intimate feel, and over-ear headphones rest naturally around her neck, adding a modern, lifestyle element. The background is minimal and dark, fading smoothly into shadow to keep full focus on the subject. The mood is calm, introspective, and artistic, evoking quiet moments of solitude and self-reflection. Shot as fine-art black-and-white photography with rich tonal range, smooth gradients, realistic skin texture, natural imperfections, subtle film grain, and organic softness. Inspired by classic portrait photography and cinematic light-and-shadow storytelling. High-resolution, shallow depth of field, soft focus falloff, timeless aesthetic, emotional realism, professional studio-quality photograph.",
-        "category": "Women"
+      "id": 46,
+      "title": "Old City Stairway Love Walk",
+      "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767723432/IMG_046_kvg1ar.jpg",
+      "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference for both subjects. Preserve facial structure, skin tone, age, expressions, and all unique facial features exactly as in the uploaded image. Do NOT alter faces in any way.\n\nGenerate an ultra-realistic cinematic couple portrait in vertical 1080x1920 resolution. Scene: a narrow historic old-city alley with aged red walls and a stone staircase. The couple is walking hand-in-hand down the steps, looking at each other with soft romantic smiles.\n\nClothing: Man wears a simple white kurta with dark trousers. Woman wears a pastel peach saree with subtle floral embroidery and a matching blouse. Hair styled naturally with loose strands.\n\nLighting: natural daylight filtered through the alley, soft shadows, warm tones. Mood: intimate, cultural, timeless.\n\nFraming: near-knee crop. If the uploaded image is cropped, intelligently extend legs, saree pleats, stairs, and walls with correct perspective and lighting continuity.",
+      "category": "Couple"
     },
     {
-        "id": 47,
-        "title": "Yellow Dressup",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766941288/Yellow_Dressed_g9jig6.jpg",
-        "prompt": "genrate img Ultra-cinematic fashion portrait, preserve exact facial structure and identity from the uploaded photo, medium close-up framing, confident calm expression, modern monochrome mustard-yellow outfit with tailored blazer and high-neck top, natural golden-hour sunlight entering from the side, strong directional light with soft cinematic shadows, warm tones, realistic skin texture with natural pores, slightly tousled medium-length hair, minimal blurred background with window light shapes, shallow depth of field, professional DSLR photography, 85mm lens, Vogue-style editorial, ultra high detail",
-        "category": "Women"
+      "id": 47,
+      "title": "Vintage Alleyway Lean Pose",
+      "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767723429/IMG_047_q8wxa9.jpg",
+      "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference for both individuals. Facial identity must remain 100% unchanged.\n\nCreate a cinematic couple portrait in vertical 1080x1920 resolution. Scene: narrow rustic alleyway with textured walls, faded murals, and old electrical wires overhead. The woman stands slightly in front leaning casually near the wall, while the man stands close behind her, creating a protective and romantic composition.\n\nClothing: Woman wears a light pastel saree with minimal embroidery. Man wears a white kurta-pajama. Expressions calm, confident, and emotionally connected.\n\nLighting: soft diffused daylight with shallow depth of field. Near-knee framing with intelligent body and background extension if image is cropped.",
+      "category": "Couple"
     },
     {
-        "id": 48,
-        "title": "Showing finger to Angle",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766942904/showing_finger_to_the_camera_y0qgoq.jpg",
-        "prompt": "Ultra-realistic cinematic street-fashion portrait using the uploaded reference image as the primary identity source, exact facial structure, jawline, skin texture, eyebrows, lips and expression preserved, young masculine person shot from a low-angle wide-angle perspective, subject centered and looking directly into the camera with a calm confident slightly intense expression, wearing round black vintage sunglasses with subtle reflections, black beanie layered under a hooded sweatshirt, oversized distressed military-style jacket with visible fabric wear seams folds and realistic textile texture, multiple engraved silver rings with metallic shine on extended hand reaching toward the lens creating strong foreground depth, cross-body designer sling bag with detailed leather grain and stitching, modern brutalist city architecture overhead with repeating geometric concrete lines forming strong leading lines and symmetry, overcast daylight with soft diffused natural lighting, neutral cinematic color palette of muted greys blacks and olive tones, shallow depth of field with sharp focus on face and hand, cinematic wide-angle perspective distortion, ultra-high resolution hyper-detailed skin pores fabric fibers and metal reflections, editorial fashion photography streetwear aesthetic minimalist background professional cinematic color grading razor-sharp clarity","negative_prompt":"low quality blurry soft focus cartoon anime illustration CGI 3D render painterly plastic skin waxy face unrealistic skin over-smoothing distorted face asymmetrical eyes bad anatomy extra fingers missing fingers deformed hands distorted accessories incorrect perspective duplicate face multiple heads watermark logo text oversaturated colors harsh contrast fisheye distortion motion blur jpeg artifacts","style":"photorealistic","camera":"24mm wide-angle lens f/2.8 ISO 100","lighting":"soft natural overcast daylight","quality":"8K ultra-high detail","mood":"confident modern urban cinematic",
-        "category": "Men"
+      "id": 48,
+      "title": "Running Through Golden Fields",
+      "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767723432/IMG_048_dpb1pr.jpg",
+      "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference for both subjects. Preserve exact facial likeness without any changes.\n\nGenerate a joyful cinematic couple portrait in vertical 1080x1920 resolution. Scene: open countryside with tall golden grass, a narrow green path, and distant hills. The woman runs ahead laughing freely while the man follows behind smiling playfully.\n\nClothing: Woman wears a light, flowy short dress. Man wears a dark casual shirt and trousers. Hair and fabric show natural motion.\n\nLighting: bright natural daylight with warm highlights. Mood: playful, carefree, romantic.\n\nFraming: near-knee crop. Extend legs, grass, and path realistically if the image is not full-body.",
+      "category": "Couple"
     },
     {
-        "id": 49,
-        "title": "Yellow Galssed with letters",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766941732/Yellow_Sepect_lnxjw9.jpg",
-        "prompt": "Ultra-cinematic futuristic tech portrait, preserve exact facial structure, identity, and expression from uploaded photo, close-up framing, calm intelligent gaze, translucent glowing yellow smart glasses, holographic mathematical equations and scientific symbols projected on face, glasses, and clothing, modern yellow techwear jacket with glossy reflective material, warm golden hologram light mixed with cool teal ambient lighting, cinematic color contrast, realistic skin texture with natural pores, sharp expressive eyes, hair tied in a casual bun with soft loose strands, abstract teal and cyan bokeh background, shallow depth of field, professional digital photography, ultra high resolution, cinematic sci-fi editorial style","negative_prompt":"low quality, blurry, flat lighting, harsh flash, cartoon, anime, illustration, CGI, plastic skin, over-smoothed face, distorted facial features, altered identity, extra fingers, extra limbs, bad hands, deformed face, noise, grain, watermark, logo, text artifacts, oversaturated colors",
-        "category": "Women"
+      "id": 49,
+      "title": "Campfire Guitar Night Romance",
+      "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767723437/IMG_049_d82zml.jpg",
+      "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference for both individuals. Faces must remain 100% unchanged.\n\nCreate a cinematic nighttime couple portrait in vertical 1080x1920 resolution. Scene: outdoor campsite at night with warm string lights, canvas tents, and a glowing campfire. The man plays an acoustic guitar while the woman leans gently on his shoulder with eyes closed.\n\nClothing: casual layered outfits suitable for cool night weather.\n\nLighting: warm firelight illuminating faces with soft orange highlights and deep shadows. Mood: cozy, emotional, intimate.\n\nFraming: near-knee crop with realistic extension of seated posture, firewood, and tents if cropped.",
+      "category": "Couple"
     },
     {
-        "id": 50,
-        "title": "Sitted men under the Bridge",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766944492/image_2_b6wpxm.jpg",
-        "prompt": "genrate img Ultra-realistic cinematic high-angle street photography of a bearded man sitting on asphalt under a concrete bridge pillar covered in detailed graffiti. He is wearing a crisp white t-shirt with 'SPROMPT' text and vibrant red high-top sneakers. Dramatic long-exposure light trails from passing cars in glowing red and orange streak across the frame. Urban city skyline with illuminated skyscrapers in the background at night. Teal and orange cinematic color grading, neon noir aesthetic. Sharp focus on the subject, hyper-realistic textures on skin, clothing, and concrete surfaces. Shot on a 35mm lens, 8k resolution, photorealistic lighting, subtle atmospheric haze, reflective wet asphalt enhancing light trails, cinematic depth of field.",
-        "category": "Men"
+      "id": 50,
+      "title": "Traditional Doorway Saree Flow",
+      "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767723432/IMG_050_cgobts.jpg",
+      "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference for both subjects. Preserve facial identity perfectly.\n\nGenerate a cinematic traditional couple portrait in vertical 1080x1920 resolution. Scene: heritage wooden doorway with carved textures. The woman walks slightly ahead holding the flowing end of her saree, while the man stands behind admiring her.\n\nClothing: Woman wears an elegant white saree with a red blouse. Man wears a classic white kurta-pajama.\n\nLighting: soft natural daylight with warm tones. Mood: elegant, romantic, cultural.\n\nFraming: near-knee crop. Extend saree drape, doorway, and floor seamlessly if cropped.",
+      "category": "Couple"
     },
     {
-        "id": 51,
-        "title": "1952 Style",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766906226/1952Style_nvpwgq.jpg",
-        "prompt": "A hyper-realistic cinematic 3:4 vertical half-body portrait of a young man (25-28) with the exact face from reference image, leaning casually against a 1920s smoky bar table, holding a vintage walking cane. He wears Peaky Blinders-inspired attire-tailored wool three-piece suit, waistcoat, tie, and flat cap. Head slightly down, eyes locked on camera with an intense, confident stare. Warm, ambient lighting casts moody shadows; blurred crowd and glowing whisky bottles in soft bokeh create depth. Shot with 85mm f/1.4 lens, 8K quality, highlighting fabric textures and facial expression.",
-        "category": "Men"
+      "id": 51,
+      "title": "Playful Cheek Touch Moment",
+      "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767723431/IMG_051_d9qdly.jpg",
+      "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference for both individuals. Identity must remain unchanged.\n\nCreate a soft romantic outdoor couple portrait in vertical 1080x1920 resolution. Scene: lakeside or park environment with blurred greenery and calm water. The man gently touches the woman’s cheek as both smile warmly.\n\nClothing: light pastel traditional outfits. Hair styled naturally.\n\nLighting: soft daylight with gentle highlights. Mood: playful, affectionate, serene.\n\nFraming: near-knee crop with intelligent body and background extension if image is cropped.",
+      "category": "Couple"
     },
     {
-        "id": 52,
-        "title": "Dodge Challenger–style",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766914607/men_Stand_Bg_car_cizxyv.jpg",
-        "prompt": "A highly cinematic, ultra-detailed full-body portrait of the subject standing confidently beside a dark, sleek sports car (Dodge Challenger–style) at a dimly lit gas station at night. The subject’s facial features and identity must remain exactly identical to the original reference photo, with no alteration. He looks directly into the camera with a cool, self-assured expression, wearing dark sunglasses, a plain white T-shirt, a loose grey bomber jacket, dark trousers, and sturdy shoes. His hands are casually placed in his pockets. Neon gas station lights cast dramatic highlights and deep shadows, creating a moody cinematic atmosphere. Shot in ultra-realistic photography style, sharp focus, high contrast, shallow depth of field, night cinematography, professional color grading, 8K quality. blurry, low resolution, face change, different identity, distorted face, extra limbs, extra fingers, bad anatomy, oversharpening, noise, watermark, logo, text.",
-        "category": "Men"
+      "id": 52,
+      "title": "Moonlit Beach Rock Embrace",
+      "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767723432/IMG_052_j6bvp8.jpg",
+      "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference for both subjects. Do NOT alter faces.\n\nGenerate an ultra-realistic cinematic couple portrait in vertical 1080x1920 resolution. Scene: rocky beach shoreline at night under a bright full moon and starry sky. The woman rests her head on the man’s shoulder as he gently holds her.\n\nClothing: soft ethnic casual wear. Barefoot on rocks.\n\nLighting: cool moonlight with soft rim lighting. Mood: calm, dreamy, emotional.\n\nFraming: near-knee crop with seamless extension of rocks, ocean, and sky if cropped.",
+      "category": "Couple"
     },
     {
-        "id": 53,
-        "title": "A Boy Standing",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766915079/image_2_h7kipi.jpg",
-        "prompt": "Using the reference image as the main subject and facial structure, A cinematic ultrawide, low-angle shot of a young man standing in the same out-door setting. The man is leaning casually against a tall weathered concrete gate, surrounded by lush green branches and barbed wire above. The ground is wet, reflecting the rainy and misty atmosphere. a man wearing a white open rolled-up sleeve cargo shirt and black baggy cargo pant. Keep the misty forest pathway in the background with a dreamy, moody atmosphere.",
-        "category": "Men"
+      "id": 53,
+      "title": "Quiet Train Window Love",
+      "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767723433/IMG_053_i3492n.jpg",
+      "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference for both subjects. Preserve facial structure, skin tone, expressions, and all unique facial features exactly as in the uploaded image. Do NOT alter faces in any way.\n\nGenerate an ultra-realistic cinematic couple portrait in vertical 1080x1920 resolution. Scene: inside a moving train during daytime. The couple sits side by side near a large window, shoulders touching. The woman gently rests her head on the man’s shoulder while he looks outside thoughtfully. Motion-blurred countryside passes outside the window.\n\nClothing: comfortable casual outfits suitable for travel, soft natural fabrics. Hair relaxed and natural.\n\nLighting: soft natural daylight entering through the window, creating gentle highlights and calm shadows. Mood: peaceful, intimate, emotional, travel romance.\n\nFraming: near-knee crop. If the uploaded image is cropped, seamlessly extend seated posture, train seats, window frame, and passing landscape while maintaining realistic perspective and motion blur.",
+      "category": "Couple"
     },
     {
-        "id": 54,
-        "title": "Seeing back in the bus",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766918843/Girl_looking_back_xdb0co.jpg",
-        "prompt": "Using the reference image as the main subject and facial structure, create a cinematic night-time portrait of a young woman inside a subway train. She is seated near the window, gently looking back over her shoulder with a quiet, emotional expression. Her hair is slightly messy and natural. Soft reflections appear on the train glass, with blurred neon city lights passing outside the window. The lighting feels low and intimate, mixing warm interior metro lights with cool city glow from outside. The background is softly blurred, creating a dreamy bokeh effect. The mood is cinematic, emotional, and atmospheric, inspired by Wong Kar-wai–style film aesthetics, with subtle film grain and natural color tones.",
-        "category": "Women"
+      "id": 54,
+      "title": "Forest Campfire Blanket Cozy",
+      "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767723435/IMG_054_hpy0dh.jpg",
+      "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference for both subjects. Facial identity must remain unchanged.\n\nGenerate a cozy cinematic couple portrait in vertical 1080x1920 resolution. Scene: forest campsite with a circular fire pit. The couple sits close together wrapped in a patterned blanket, leaning gently toward each other.\n\nLighting: warm firelight with glowing embers and dark forest background. Mood: peaceful, intimate, cozy.\n\nFraming: near-knee crop with realistic extension of logs, fire pit, and forest depth if cropped.",
+      "category": "Couple"
     },
     {
-        "id": 55,
-        "title": "Standing with Flowers",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766919406/Women_With_flower_tzi6a5.jpg",
-        "prompt": "Using the uploaded reference image as the primary subject, facial structure, and pose, create a cinematic, vintage-style street photograph. A young woman stands on a city sidewalk, viewed from a high-angle perspective, looking up toward the camera with a soft, emotional, slightly melancholic expression. Natural makeup, expressive eyes, softly parted lips. Dark brown hair, center-parted, naturally styled with loose strands framing her face. She wears a long classic plaid wool coat with a timeless European aesthetic. In one hand, she gently holds a bouquet of deep red roses with rich textures and realistic petals. In the other hand, she carries a simple brown paper shopping bag. The scene feels candid and cinematic, as if captured from a window or balcony above. Blurred silhouettes of people walking past create motion blur and a sense of life and movement. Textured stone pavement below, slightly cool-toned. Soft natural daylight with a nostalgic glow, diffused as if shot through glass or haze. Gentle highlights, soft shadows, subtle contrast. Muted filmic color grading with warm skin tones, desaturated greens and blues, and deep reds in the roses standing out. Vintage analog film look inspired by 1970s–1990s street photography, subtle film grain, slight edge blur, dreamy atmosphere. Shot on a 35mm film camera, shallow depth of field, realistic textures, cinematic realism, emotional storytelling, timeless aesthetic, high-quality photograph, natural imperfections, soft focus, organic feel.",
-        "category": "Women"
+      "id": 55,
+      "title": "Mustard Field Embrace Romance",
+      "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767723435/IMG_055_lq3jo4.jpg",
+      "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference for both individuals. Preserve facial structure perfectly.\n\nCreate a bright romantic couple portrait in vertical 1080x1920 resolution. Scene: mustard flower field in full bloom. The man embraces the woman from behind as they gaze at each other lovingly.\n\nClothing: Woman wears a red traditional outfit. Man wears a white kurta.\n\nLighting: bright natural daylight with soft contrast. Mood: joyful, rural, romantic.\n\nFraming: near-knee crop. Extend flowers, arms, and field depth seamlessly if cropped.",
+      "category": "Couple"
     },
     {
-        "id": 56,
-        "title": "Listing Music",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766920181/Women_with_headphone_xxqtzt.jpg",
-        "prompt": "Using the uploaded reference image as the primary subject, exact facial structure, expression, pose, and lighting reference, create a cinematic black-and-white portrait photograph. A young woman is shown in a close-up to medium portrait, facing slightly to the side with her eyes gently closed and a peaceful, content smile on her face. Strong directional light enters through window blinds, casting dramatic horizontal shadow lines across her face, hair, and upper body. The lighting is high-contrast yet soft, creating deep shadows and glowing highlights, emphasizing facial contours, cheekbones, nose bridge, and lips. Her hair is dark, long, and naturally flowing over her shoulders with realistic texture and subtle shine. She wears casual clothing with a relaxed, intimate feel, and over-ear headphones rest naturally around her neck, adding a modern, lifestyle element. The background is minimal and dark, fading smoothly into shadow to keep full focus on the subject. The mood is calm, introspective, and artistic, evoking quiet moments of solitude and self-reflection. Shot as fine-art black-and-white photography with rich tonal range, smooth gradients, realistic skin texture, natural imperfections, subtle film grain, and organic softness. Inspired by classic portrait photography and cinematic light-and-shadow storytelling. High-resolution, shallow depth of field, soft focus falloff, timeless aesthetic, emotional realism, professional studio-quality photograph.",
-        "category": "Women"
+      "id": 56,
+      "title": "Rainy Street Umbrella Romance",
+      "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767723436/IMG_056_qimp2u.jpg",
+      "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference for both subjects. Preserve facial structure, skin tone, expressions, and all unique facial features exactly. Do NOT alter faces.\n\nGenerate an ultra-realistic cinematic couple portrait in vertical 1080x1920 resolution. Scene: a quiet city street during light rain at dusk, wet road reflecting warm streetlights. The couple stands close under a single umbrella, shoulders touching, sharing an intimate smile.\n\nClothing: stylish casual outfits suitable for rain, soft fabrics slightly damp. Hair naturally affected by moisture.\n\nLighting: warm streetlights mixed with cool rainy ambience, cinematic reflections. Mood: romantic, dreamy, intimate.\n\nFraming: near-knee crop. If image is cropped, extend legs, road reflections, and background buildings seamlessly.",
+      "category": "Couple"
     },
     {
-        "id": 57,
-        "title": "Yellow Dressup",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766941288/Yellow_Dressed_g9jig6.jpg",
-        "prompt": "genrate img Ultra-cinematic fashion portrait, preserve exact facial structure and identity from the uploaded photo, medium close-up framing, confident calm expression, modern monochrome mustard-yellow outfit with tailored blazer and high-neck top, natural golden-hour sunlight entering from the side, strong directional light with soft cinematic shadows, warm tones, realistic skin texture with natural pores, slightly tousled medium-length hair, minimal blurred background with window light shapes, shallow depth of field, professional DSLR photography, 85mm lens, Vogue-style editorial, ultra high detail",
-        "category": "Women"
+      "id": 57,
+      "title": "Sunset Rooftop Silhouette Love",
+      "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767723435/IMG_057_lisltz.jpg",
+      "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference for both individuals. Facial identity must remain 100% unchanged.\n\nCreate a cinematic romantic couple portrait in vertical 1080x1920 resolution. Scene: open rooftop overlooking a city skyline at sunset. The couple stands close, facing each other, foreheads nearly touching as the sun sets behind them.\n\nClothing: elegant semi-formal outfits with soft flowing textures.\n\nLighting: golden-hour backlight creating soft silhouettes and rim light around faces and hair. Mood: emotional, peaceful, cinematic.\n\nFraming: near-knee crop. Extend skyline, rooftop edges, and sunset sky naturally if cropped.",
+      "category": "Couple"
     },
     {
-        "id": 58,
-        "title": "Showing finger to Angle",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766942904/showing_finger_to_the_camera_y0qgoq.jpg",
-        "prompt": "Ultra-realistic cinematic street-fashion portrait using the uploaded reference image as the primary identity source, exact facial structure, jawline, skin texture, eyebrows, lips and expression preserved, young masculine person shot from a low-angle wide-angle perspective, subject centered and looking directly into the camera with a calm confident slightly intense expression, wearing round black vintage sunglasses with subtle reflections, black beanie layered under a hooded sweatshirt, oversized distressed military-style jacket with visible fabric wear seams folds and realistic textile texture, multiple engraved silver rings with metallic shine on extended hand reaching toward the lens creating strong foreground depth, cross-body designer sling bag with detailed leather grain and stitching, modern brutalist city architecture overhead with repeating geometric concrete lines forming strong leading lines and symmetry, overcast daylight with soft diffused natural lighting, neutral cinematic color palette of muted greys blacks and olive tones, shallow depth of field with sharp focus on face and hand, cinematic wide-angle perspective distortion, ultra-high resolution hyper-detailed skin pores fabric fibers and metal reflections, editorial fashion photography streetwear aesthetic minimalist background professional cinematic color grading razor-sharp clarity","negative_prompt":"low quality blurry soft focus cartoon anime illustration CGI 3D render painterly plastic skin waxy face unrealistic skin over-smoothing distorted face asymmetrical eyes bad anatomy extra fingers missing fingers deformed hands distorted accessories incorrect perspective duplicate face multiple heads watermark logo text oversaturated colors harsh contrast fisheye distortion motion blur jpeg artifacts","style":"photorealistic","camera":"24mm wide-angle lens f/2.8 ISO 100","lighting":"soft natural overcast daylight","quality":"8K ultra-high detail","mood":"confident modern urban cinematic",
-        "category": "Men"
+      "id": 58,
+      "title": "Morning Coffee Balcony Moment",
+      "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767723441/IMG_058_vizbfp.jpg",
+      "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference for both subjects. Preserve facial identity perfectly.\n\nGenerate a soft lifestyle cinematic couple portrait in vertical 1080x1920 resolution. Scene: cozy apartment balcony in the morning with warm sunlight. The couple stands close, holding coffee mugs, smiling naturally at each other.\n\nClothing: relaxed home wear or light casual outfits. Hair natural and slightly messy.\n\nLighting: soft morning sunlight with gentle shadows. Mood: calm, intimate, real-life romance.\n\nFraming: near-knee crop. Extend balcony railing, floor, and background buildings seamlessly if image is cropped.",
+      "category": "Couple"
     },
     {
-        "id": 59,
-        "title": "Yellow Galssed with letters",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766941732/Yellow_Sepect_lnxjw9.jpg",
-        "prompt": "Ultra-cinematic futuristic tech portrait, preserve exact facial structure, identity, and expression from uploaded photo, close-up framing, calm intelligent gaze, translucent glowing yellow smart glasses, holographic mathematical equations and scientific symbols projected on face, glasses, and clothing, modern yellow techwear jacket with glossy reflective material, warm golden hologram light mixed with cool teal ambient lighting, cinematic color contrast, realistic skin texture with natural pores, sharp expressive eyes, hair tied in a casual bun with soft loose strands, abstract teal and cyan bokeh background, shallow depth of field, professional digital photography, ultra high resolution, cinematic sci-fi editorial style","negative_prompt":"low quality, blurry, flat lighting, harsh flash, cartoon, anime, illustration, CGI, plastic skin, over-smoothed face, distorted facial features, altered identity, extra fingers, extra limbs, bad hands, deformed face, noise, grain, watermark, logo, text artifacts, oversaturated colors",
-        "category": "Women"
+      "id": 59,
+      "title": "Traditional Festival Evening Glow",
+      "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767723437/IMG_059_cxn2fr.jpg",
+      "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference for both individuals. Faces must remain unchanged.\n\nCreate a cinematic festive couple portrait in vertical 1080x1920 resolution. Scene: outdoor traditional festival setting at evening with decorative lights, lanterns, and soft bokeh in the background. The couple stands side-by-side, hands gently touching, smiling warmly.\n\nClothing: elegant traditional outfits with rich fabrics and subtle embroidery.\n\nLighting: warm festive lights with soft glow on faces. Mood: joyful, cultural, romantic.\n\nFraming: near-knee crop with intelligent extension of outfits, lights, and crowd blur if cropped.",
+      "category": "Couple"
     },
     {
-        "id": 60,
-        "title": "Sitted men under the Bridge",
-        "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1766944492/image_2_b6wpxm.jpg",
-        "prompt": "genrate img Ultra-realistic cinematic high-angle street photography of a bearded man sitting on asphalt under a concrete bridge pillar covered in detailed graffiti. He is wearing a crisp white t-shirt with 'SPROMPT' text and vibrant red high-top sneakers. Dramatic long-exposure light trails from passing cars in glowing red and orange streak across the frame. Urban city skyline with illuminated skyscrapers in the background at night. Teal and orange cinematic color grading, neon noir aesthetic. Sharp focus on the subject, hyper-realistic textures on skin, clothing, and concrete surfaces. Shot on a 35mm lens, 8k resolution, photorealistic lighting, subtle atmospheric haze, reflective wet asphalt enhancing light trails, cinematic depth of field.",
-        "category": "Men"
+      "id": 60,
+      "title": "Quiet Library Love Scene",
+      "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767723438/IMG_060_sjcuyv.jpg",
+      "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference for both subjects. Preserve facial features and expressions exactly.\n\nGenerate a cinematic romantic couple portrait in vertical 1080x1920 resolution. Scene: classic library or bookstore with tall bookshelves. The couple stands close between shelves, sharing a soft smile while holding a book together.\n\nClothing: smart casual outfits with neutral tones.\n\nLighting: warm indoor lighting with soft shadows and shallow depth of field. Mood: intellectual, gentle, intimate.\n\nFraming: near-knee crop. Extend bookshelves, floor, and aisle depth realistically if cropped.",
+      "category": "Couple"
     }
 ]
