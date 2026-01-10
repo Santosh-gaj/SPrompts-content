@@ -1,142 +1,101 @@
 [
-  {
-    "id": 121,
-    "title": "",
-    "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
-  },
+  { "id": 121, "title": "", "imageUrl": "", "prompt": "", "category": "Men" },
+
   {
     "id": 122,
-    "title": "",
+    "title": "Graffiti Street Commander",
     "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
+    "prompt": "Use the uploaded image as the ONLY facial identity reference. Preserve the face perfectly with zero alteration. Create a cinematic urban street portrait of a man standing confidently in front of a colorful graffiti wall. Olive bomber jacket, black t-shirt, black cargo joggers, white sneakers. Hands in pockets, powerful stance. Natural daylight with soft shadows and shallow depth of field. Near-knee crop with realistic body extension. Ultra-realistic cinematic street photography, 1080x1920.",
+    "category": "Men"
   },
-  {
-    "id": 123,
-    "title": "",
-    "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
-  },
+
+  { "id": 123, "title": "", "imageUrl": "", "prompt": "", "category": "Men" },
+
   {
     "id": 124,
-    "title": "",
+    "title": "Neon Studio Face Lock",
     "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
+    "prompt": "Preserve the uploaded face exactly as-is. Create a dramatic studio portrait with neon blue and orange rim lighting sculpting the face. Dark background, intense eye contact, clean skin texture, high-contrast cinematic lighting. Minimal outfit with futuristic mood. Extend framing naturally to near-knee if needed. Ultra-detailed hyper-realistic studio photography, vertical 1080x1920.",
+    "category": "Men"
   },
-  {
-    "id": 125,
-    "title": "",
-    "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
-  },
+
+  { "id": 125, "title": "", "imageUrl": "", "prompt": "", "category": "Men" },
+
   {
     "id": 126,
-    "title": "",
+    "title": "Metro Walk Cinematic",
     "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
+    "prompt": "Use the uploaded image as the absolute facial reference. Maintain exact likeness. Create a cinematic subway platform scene with a moving train blurred in the background. Subject walks confidently toward camera wearing a leather jacket, graphic t-shirt, neutral pants, and sneakers. Motion blur behind, sharp focus on subject. Urban cinematic lighting. Near-knee framing with realistic anatomy. Ultra-realistic city photography, 1080x1920.",
+    "category": "Men"
   },
-  {
-    "id": 127,
-    "title": "",
-    "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
-  },
+
+  { "id": 127, "title": "", "imageUrl": "", "prompt": "", "category": "Men" },
+
   {
     "id": 128,
-    "title": "",
+    "title": "City Rooftop After Hours",
     "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
+    "prompt": "Preserve facial identity with perfect accuracy. Create a moody nighttime rooftop portrait overlooking a glowing city skyline. Subject leans against a railing with relaxed confidence. Black suit with loosened tie, subtle accessories. Teal and warm city lights blend naturally. Near-knee crop with realistic body extension. Ultra-detailed cinematic night photography, 1080x1920.",
+    "category": "Men"
   },
-  {
-    "id": 129,
-    "title": "",
-    "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
-  },
+
+  { "id": 129, "title": "", "imageUrl": "", "prompt": "", "category": "Men" },
+
   {
     "id": 130,
-    "title": "",
+    "title": "Cafe Racer Presence",
     "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
+    "prompt": "Use the uploaded face as the ONLY identity reference. Keep facial features unchanged. Create a cinematic lifestyle portrait of a man seated confidently on a custom black motorcycle outside a modern café. Sleeveless black t-shirt, jeans, sneakers. Moody natural light with reflections on glass and shallow depth of field. Near-knee framing with realistic anatomy. Ultra-realistic premium photography, 1080x1920.",
+    "category": "Men"
   },
-  {
-    "id": 131,
-    "title": "",
-    "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
-  },
+
+  { "id": 131, "title": "", "imageUrl": "", "prompt": "", "category": "Men" },
+
   {
     "id": 132,
-    "title": "",
+    "title": "Silent Classroom Rebel",
     "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
+    "prompt": "Use the uploaded image as the ONLY facial identity reference. Preserve facial features perfectly. Create a cinematic indoor classroom scene where the man sits casually on a bench with legs resting on a desk, wearing headphones. Warm afternoon sunlight through windows, dramatic shadows. Vintage classroom elements visible. Calm rebellious mood. Near-knee crop with realistic body extension. Ultra-realistic cinematic storytelling, 1080x1920.",
+    "category": "Men"
   },
-  {
-    "id": 133,
-    "title": "",
-    "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
-  },
+
+  { "id": 133, "title": "", "imageUrl": "", "prompt": "", "category": "Men" },
+
   {
     "id": 134,
-    "title": "",
+    "title": "Japanese Floral Editorial",
     "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
+    "prompt": "Preserve the uploaded face exactly as-is. Create a high-fashion studio portrait inspired by Japanese aesthetics. Subject stands against a clean background wearing a floral haori over a white t-shirt and black trousers. Soft studio lighting, editorial framing, sharp fabric texture. Near-knee framing with realistic anatomy. Ultra-detailed premium fashion photography, 1080x1920.",
+    "category": "Men"
   },
-  {
-    "id": 135,
-    "title": "",
-    "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
-  },
+
+  { "id": 135, "title": "", "imageUrl": "", "prompt": "", "category": "Men" },
+
   {
     "id": 136,
-    "title": "",
+    "title": "Village Tea Stall Calm",
     "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
+    "prompt": "Use the uploaded image as the absolute facial reference. Keep face unchanged. Create a warm rural lifestyle portrait of a man sitting on a wooden bench outside a small tea stall. Golden hour sunlight, rustic textures, casual shirt and jeans. Vendor softly visible in background. Peaceful grounded mood. Near-knee crop with natural body extension. Ultra-realistic cinematic rural photography, 1080x1920.",
+    "category": "Men"
   },
-  {
-    "id": 137,
-    "title": "",
-    "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
-  },
+
+  { "id": 137, "title": "", "imageUrl": "", "prompt": "", "category": "Men" },
+
   {
     "id": 138,
-    "title": "",
+    "title": "Forest Ride Reflection",
     "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
+    "prompt": "Preserve facial identity perfectly. Create a cinematic forest road scene during golden hour where the man sits on a classic motorcycle. Soft sunlight through trees, misty hills behind. Travel diary mood with relaxed posture. Casual outfit with sling bag. Near-knee framing with realistic anatomy. Ultra-detailed cinematic travel portrait, 1080x1920.",
+    "category": "Men"
   },
-  {
-    "id": 139,
-    "title": "",
-    "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
-  },
+
+  { "id": 139, "title": "", "imageUrl": "", "prompt": "", "category": "Men" },
+
   {
     "id": 140,
-    "title": "",
+    "title": "Railway Track Solitude",
     "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
+    "prompt": "Use the uploaded face as the ONLY identity reference. Maintain perfect likeness. Create a dramatic cinematic portrait of a man sitting on the edge of a stationary train at dusk. Moody blue tones, railway lights fading into distance, introspective expression. Casual earthy outfit with white sneakers. Near-knee crop with realistic body extension. Ultra-realistic emotional cinematic photography, 1080x1920.",
+    "category": "Men"
   }
 ]
