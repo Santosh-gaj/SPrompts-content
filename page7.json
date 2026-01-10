@@ -63,9 +63,9 @@
 
   {
     "id": 134,
-    "title": "Japanese Floral Editorial",
+    "title": "Rainy Railway Platform Wait",
     "imageUrl": "",
-    "prompt": "Preserve the uploaded face exactly as-is. Create a high-fashion studio portrait inspired by Japanese aesthetics. Subject stands against a clean background wearing a floral haori over a white t-shirt and black trousers. Soft studio lighting, editorial framing, sharp fabric texture. Near-knee framing with realistic anatomy. Ultra-detailed premium fashion photography, 1080x1920.",
+    "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference. Facial identity must remain completely unchanged. Create a cinematic rainy evening scene on an empty railway platform. The man sits on a metal bench, rain-soaked ground reflecting station lights, droplets visible in the air. Train tracks fade into darkness, station signs softly blurred. Subject wears a casual jacket, dark pants, white sneakers, hands clasped, lost-in-thought expression. Cool blue-gray color palette, emotional solitude mood. Frame from head to near-knee level with realistic body completion. Ultra-detailed, photorealistic, cinematic rain effects, 8K quality, vertical 1080x1920.",
     "category": "Men"
   },
 
@@ -73,9 +73,9 @@
 
   {
     "id": 136,
-    "title": "Village Tea Stall Calm",
+    "title": "Abandoned Factory Silence",
     "imageUrl": "",
-    "prompt": "Use the uploaded image as the absolute facial reference. Keep face unchanged. Create a warm rural lifestyle portrait of a man sitting on a wooden bench outside a small tea stall. Golden hour sunlight, rustic textures, casual shirt and jeans. Vendor softly visible in background. Peaceful grounded mood. Near-knee crop with natural body extension. Ultra-realistic cinematic rural photography, 1080x1920.",
+    "prompt": "Use the uploaded image as the PRIMARY and ONLY facial identity reference. Preserve the face perfectly with zero alteration. Create a dramatic cinematic portrait of a man sitting on a rusted metal step inside an abandoned factory. Broken windows allow cold blue light to enter, dust particles floating in the air. Industrial textures, peeling paint, steel beams in the background. Subject wears a muted casual outfit, slightly slouched posture, distant thoughtful gaze. Dark moody tones with cinematic contrast. Near-knee framing with realistic body extension if needed. Ultra-realistic, emotional storytelling, 8K detail, vertical 1080x1920.",
     "category": "Men"
   },
 
@@ -83,9 +83,9 @@
 
   {
     "id": 138,
-    "title": "Forest Ride Reflection",
+    "title": "Bus Stand Midnight Solitude",
     "imageUrl": "",
-    "prompt": "Preserve facial identity perfectly. Create a cinematic forest road scene during golden hour where the man sits on a classic motorcycle. Soft sunlight through trees, misty hills behind. Travel diary mood with relaxed posture. Casual outfit with sling bag. Near-knee framing with realistic anatomy. Ultra-detailed cinematic travel portrait, 1080x1920.",
+    "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference. The face must remain 100% unchanged with exact preservation of all facial features, skin tone, age, and expression. Create a cinematic night-time portrait of a man sitting alone on a deserted bus stand bench. Dim sodium streetlights cast warm-yellow pools of light, empty road stretching behind him, distant headlights blurred into bokeh. Subject wears a casual dark shirt, trousers, and white sneakers, elbows resting on knees, introspective expression. Moody atmosphere, light fog, soft shadows. Frame from head to near-knee level; if the source image is cropped, intelligently extend the lower body with realistic anatomy and perspective. Ultra-detailed, photorealistic, cinematic color grading, 8K quality, vertical 1080x1920.",
     "category": "Men"
   },
 
