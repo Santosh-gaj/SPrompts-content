@@ -1,143 +1,101 @@
-
 [
-  {
-    "id": 101,
-    "title": "",
-    "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
-  },
+  { "id": 101, "title": "", "imageUrl": "", "prompt": "", "category": "Men" },
+
   {
     "id": 102,
-    "title": "",
+    "title": "Urban Balcony Calm",
     "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
+    "prompt": "Use the uploaded image as the ONLY facial identity reference. Keep the face perfectly preserved with zero changes. Generate a cinematic urban portrait of a young man leaning casually on an apartment balcony railing. Soft city tones, shallow depth of field, blurred buildings in the background. Calm thoughtful expression. Casual striped shirt and dark trousers. Natural daylight with realistic shadows. Near-knee framing with intelligent body extension. Ultra-realistic cinematic photography, vertical 1080x1920.",
+    "category": "Men"
   },
-  {
-    "id": 103,
-    "title": "",
-    "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
-  },
+
+  { "id": 103, "title": "", "imageUrl": "", "prompt": "", "category": "Men" },
+
   {
     "id": 104,
-    "title": "",
+    "title": "Modern Café Presence",
     "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
+    "prompt": "Preserve the uploaded face exactly as-is. Create a premium lifestyle portrait in a modern café with warm ambient lighting and decorative lamps. The man sits relaxed at a table, one hand touching his hair, confident soft gaze. Cream textured jacket with casual jeans. Background bokeh lights, cozy mood. Near-knee crop with accurate anatomy. Ultra-detailed professional photography look, vertical 1080x1920.",
+    "category": "Men"
   },
-  {
-    "id": 105,
-    "title": "",
-    "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
-  },
+
+  { "id": 105, "title": "", "imageUrl": "", "prompt": "", "category": "Men" },
+
   {
     "id": 106,
-    "title": "",
+    "title": "Garden Date Romance",
     "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
+    "prompt": "Use the uploaded image as the absolute facial reference and keep identity unchanged. Create a romantic outdoor garden café scene where the man smiles warmly while holding red roses. Soft sunlight filtering through trees, wooden table, peaceful romantic vibe. Elegant casual outfit. Near-knee framing with natural body extension. Ultra-realistic skin texture and cinematic tones, 1080x1920.",
+    "category": "Men"
   },
-  {
-    "id": 107,
-    "title": "",
-    "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
-  },
+
+  { "id": 107, "title": "", "imageUrl": "", "prompt": "", "category": "Men" },
+
   {
     "id": 108,
-    "title": "",
+    "title": "Street Art Rebel Look",
     "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
+    "prompt": "Use the uploaded face as the ONLY identity reference and maintain exact likeness. Create an urban street portrait with graffiti-covered walls. Confident leaning pose, oversized t-shirt, dark pants, sneakers. Strong side sunlight, bold shadows, raw street-style vibe. Near-knee crop with realistic anatomy. Ultra-realistic cinematic urban photography, 1080x1920.",
+    "category": "Men"
   },
-  {
-    "id": 109,
-    "title": "",
-    "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
-  },
+
+  { "id": 109, "title": "", "imageUrl": "", "prompt": "", "category": "Men" },
+
   {
     "id": 110,
-    "title": "",
+    "title": "Rooftop Sunset Chill",
     "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
+    "prompt": "Preserve facial identity perfectly. Create a cinematic rooftop sunset portrait where the man sits relaxed wearing headphones, gazing toward the sky. Warm sunset tones, soft clouds, emotional calm mood. Casual outfit. Natural rim light. Near-knee framing with realistic extension. Ultra-detailed cinematic look, 1080x1920.",
+    "category": "Men"
   },
-  {
-    "id": 111,
-    "title": "",
-    "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
-  },
+
+  { "id": 111, "title": "", "imageUrl": "", "prompt": "", "category": "Men" },
+
   {
     "id": 112,
-    "title": "",
+    "title": "Neon Alley Fashion",
     "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
+    "prompt": "Use the uploaded image as the ONLY facial identity reference. Face must remain untouched. Create a cinematic street-style portrait in a narrow neon-lit alley with glowing signs and graffiti. Oversized graphic t-shirt, ripped jeans, relaxed stance. Moody urban lighting, shallow depth of field. Near-knee crop with realistic extension. Ultra-realistic fashion editorial style, 1080x1920.",
+    "category": "Men"
   },
-  {
-    "id": 113,
-    "title": "",
-    "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
-  },
+
+  { "id": 113, "title": "", "imageUrl": "", "prompt": "", "category": "Men" },
+
   {
     "id": 114,
-    "title": "",
+    "title": "Traveler Monument Moment",
     "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
+    "prompt": "Preserve facial features with perfect accuracy. Create a cinematic travel portrait of a man seated near an iconic monument at dusk, holding a camera. Calm explorer mood, reflective environment, pastel sky. Casual travel clothing. Near-knee framing with realistic body extension. Ultra-detailed cinematic depth, 1080x1920.",
+    "category": "Men"
   },
-  {
-    "id": 115,
-    "title": "",
-    "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
-  },
+
+  { "id": 115, "title": "", "imageUrl": "", "prompt": "", "category": "Men" },
+
   {
     "id": 116,
-    "title": "",
+    "title": "Creative Studio Thoughts",
     "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
+    "prompt": "Use the uploaded image as the sole facial reference and keep the face 100% unchanged. Create an artistic studio portrait with dramatic lighting where the man sits on a wooden chair while papers float around him mid-air. Moody shadows, thoughtful expression, minimalist outfit. Cinematic storytelling feel. Near-knee crop with natural body extension. Ultra-realistic fine-art photography, 1080x1920.",
+    "category": "Men"
   },
-  {
-    "id": 117,
-    "title": "",
-    "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
-  },
+
+  { "id": 117, "title": "", "imageUrl": "", "prompt": "", "category": "Men" },
+
   {
     "id": 118,
-    "title": "",
+    "title": "Graffiti Steps Confidence",
     "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
+    "prompt": "Preserve the uploaded face exactly. Create a bold street portrait of a man sitting on graffiti-covered city steps. Casual outfit with sneakers and sunglasses. Relaxed confident pose, strong urban depth. Natural daylight, sharp focus. Near-knee framing with accurate anatomy. Ultra-detailed street photography, 1080x1920.",
+    "category": "Men"
   },
-  {
-    "id": 119,
-    "title": "",
-    "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
-  },
+
+  { "id": 119, "title": "", "imageUrl": "", "prompt": "", "category": "Men" },
+
   {
     "id": 120,
-    "title": "",
+    "title": "Mountain Guitar Serenity",
     "imageUrl": "",
-    "prompt": "",
-    "category": "Couple"
+    "prompt": "Preserve facial identity with absolute accuracy. Create a cinematic mountain meadow scene at golden hour where the man sits playing an acoustic guitar among wildflowers. Mountains and cabin in background, warm sunlight, peaceful musical mood. Casual flannel outfit. Near-knee framing with natural body extension. Ultra-realistic cinematic landscape portrait, 1080x1920.",
+    "category": "Men"
   }
 ]
