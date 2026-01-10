@@ -1,5 +1,11 @@
 [
-  { "id": 101, "title": "", "imageUrl": "", "prompt": "", "category": "Couple" },
+  {
+    "id": 101,
+    "title": "Soft Saree Window Calm",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768066764/IMG_101_onqvrp.jpg",
+    "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference. The woman’s face must remain 100% unchanged in structure, proportions, skin tone, age, and expression. Create an ultra-realistic cinematic portrait of a woman standing beside a large window, soft daylight filtering in. She wears a pastel saree with minimal patterns, loose flowing hair, small bindi, and subtle jewelry. Expression calm and introspective. Background softly blurred with indoor depth. Natural skin texture, gentle shadows, cinematic color grading. Near-knee vertical framing with intelligent body extension if needed. DSLR realism, 8K detail, vertical 1080x1920.",
+    "category": "Women"
+  },
 
   {
     "id": 102,
@@ -9,7 +15,13 @@
     "category": "Men"
   },
 
-  { "id": 103, "title": "", "imageUrl": "", "prompt": "", "category": "Couple" },
+  {
+    "id": 103,
+    "title": "Golden Hour Garden Grace",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768066765/IMG_103_dxjzyp.jpg",
+    "prompt": "Preserve the uploaded woman’s facial identity perfectly. Create a cinematic outdoor portrait in a quiet garden during golden hour. She wears a traditional saree with warm earthy tones, light jewelry, and natural makeup. Soft sunlight highlights her hair and face, with greenery blurred in the background. Expression gentle and confident. Ultra-detailed skin texture, realistic fabric folds, shallow depth of field. Near-knee framing, cinematic realism, vertical 1080x1920.",
+    "category": "Women"
+  },
 
   {
     "id": 104,
@@ -19,7 +31,13 @@
     "category": "Men"
   },
 
-  { "id": 105, "title": "", "imageUrl": "", "prompt": "", "category": "Couple" },
+  {
+    "id": 105,
+    "title": "Temple Stone Elegance",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768066766/IMG_105_yzeduq.jpg",
+    "prompt": "Use the uploaded image as the ONLY facial identity reference. Keep facial features perfectly preserved. Create a cinematic portrait of a woman seated near ancient stone architecture. She wears a classic silk saree with antique jewelry, hair neatly styled with soft loose strands. Warm daylight enhances stone textures and skin tones. Calm, graceful expression. Ultra-realistic textures, cinematic shadows, near-knee framing, vertical 1080x1920.",
+    "category": "Women"
+  },
 
   {
     "id": 106,
@@ -29,7 +47,13 @@
     "category": "Men"
   },
 
-  { "id": 107, "title": "", "imageUrl": "", "prompt": "", "category": "Couple" },
+  {
+    "id": 107,
+    "title": "Rain Window Thoughts",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768066761/IMG_107_j9iaei.jpg",
+    "prompt": "Preserve facial identity exactly. Create a cinematic rainy-day portrait of a woman standing beside a glass window with visible raindrops. She holds a book close to her chest, wearing a muted grey saree. Soft overcast light, reflective mood, shallow depth of field. Ultra-detailed skin texture, cinematic tones. Near-knee vertical framing, 1080x1920.",
+    "category": "Women"
+  },
 
   {
     "id": 108,
@@ -39,7 +63,13 @@
     "category": "Men"
   },
 
-  { "id": 109, "title": "", "imageUrl": "", "prompt": "", "category": "Couple" },
+  {
+    "id": 109,
+    "title": "Forest Swing Serenity",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768066762/IMG_109_l4ep3h.jpg",
+    "prompt": "Use the uploaded image as the PRIMARY facial identity reference. Create a cinematic forest portrait where the woman sits on a wooden swing surrounded by tall trees. Soft diffused light, calm expression, flowing dark saree. Background depth with natural bokeh. Ultra-realistic fabric and skin detail. Near-knee framing, vertical 1080x1920.",
+    "category": "Women"
+  },
 
   {
     "id": 110,
@@ -49,7 +79,13 @@
     "category": "Men"
   },
 
-  { "id": 111, "title": "", "imageUrl": "", "prompt": "", "category": "Couple" },
+  {
+    "id": 111,
+    "title": "Soft Smile Garden Light",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768066764/IMG_111_ylvhzy.jpg",
+    "prompt": "Preserve the uploaded woman’s face perfectly. Create a joyful outdoor portrait in a garden with soft sunlight. She wears a light saree, minimal jewelry, and a natural smile. Greenery softly blurred behind her. Ultra-detailed skin texture, cinematic lighting. Near-knee vertical framing, 1080x1920.",
+    "category": "Women"
+  },
 
   {
     "id": 112,
@@ -59,7 +95,13 @@
     "category": "Men"
   },
 
-  { "id": 113, "title": "", "imageUrl": "", "prompt": "", "category": "Couple" },
+  {
+    "id": 113,
+    "title": "Lotus Calm Portrait",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768066763/IMG_113_ndlnqx.jpg",
+    "prompt": "Use the uploaded image as the ONLY facial identity reference. Create a serene cinematic portrait of a woman holding a lotus flower close to her face. Soft daylight, pastel tones, peaceful expression. Ultra-realistic skin texture, shallow depth of field. Near-knee vertical framing, 1080x1920.",
+    "category": "Women"
+  },
 
   {
     "id": 114,
@@ -69,7 +111,13 @@
     "category": "Men"
   },
 
-  { "id": 115, "title": "", "imageUrl": "", "prompt": "", "category": "Couple" },
+  {
+    "id": 115,
+    "title": "Flower Street Walk",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768066764/IMG_115_d0z2mu.jpg",
+    "prompt": "Preserve facial identity exactly. Create a cinematic lifestyle portrait of a woman walking along a quiet street lined with flowers and white walls. Soft daylight, gentle smile, flowing saree. Ultra-detailed textures, cinematic realism. Near-knee framing, 1080x1920.",
+    "category": "Women"
+  },
 
   {
     "id": 116,
@@ -79,7 +127,13 @@
     "category": "Men"
   },
 
-  { "id": 117, "title": "", "imageUrl": "", "prompt": "", "category": "Couple" },
+  {
+    "id": 117,
+    "title": "Temple Courtyard Smile",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768066764/IMG_117_ln1xyx.jpg",
+    "prompt": "Use the uploaded image as the PRIMARY facial reference. Create a warm cinematic portrait of a woman smiling near temple architecture. Sunlight highlights her hair and face naturally. Traditional saree, elegant jewelry. Ultra-realistic skin texture, cinematic tones. Near-knee vertical framing, 1080x1920.",
+    "category": "Women"
+  },
 
   {
     "id": 118,
@@ -89,7 +143,13 @@
     "category": "Men"
   },
 
-  { "id": 119, "title": "", "imageUrl": "", "prompt": "", "category": "Couple" },
+  {
+    "id": 119,
+    "title": "Garden Laughter Bloom",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768066765/IMG_119_zcujxl.jpg",
+    "prompt": "Preserve facial identity perfectly. Create a joyful cinematic garden portrait of a woman holding flowers and laughing naturally. Soft greenery, warm daylight, cinematic color grading. Ultra-realistic skin and fabric detail. Near-knee vertical framing, 1080x1920.",
+    "category": "Women"
+  },
 
   {
     "id": 120,
