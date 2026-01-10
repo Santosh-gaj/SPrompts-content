@@ -4,7 +4,7 @@
   {
     "id": 102,
     "title": "Urban Balcony Calm",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768049452/IMG_102_dvnrjg.jpg",
     "prompt": "Use the uploaded image as the ONLY facial identity reference. Keep the face perfectly preserved with zero changes. Generate a cinematic urban portrait of a young man leaning casually on an apartment balcony railing. Soft city tones, shallow depth of field, blurred buildings in the background. Calm thoughtful expression. Casual striped shirt and dark trousers. Natural daylight with realistic shadows. Near-knee framing with intelligent body extension. Ultra-realistic cinematic photography, vertical 1080x1920.",
     "category": "Men"
   },
@@ -14,7 +14,7 @@
   {
     "id": 104,
     "title": "Modern Café Presence",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768049452/IMG_104_dynu3a.jpg",
     "prompt": "Preserve the uploaded face exactly as-is. Create a premium lifestyle portrait in a modern café with warm ambient lighting and decorative lamps. The man sits relaxed at a table, one hand touching his hair, confident soft gaze. Cream textured jacket with casual jeans. Background bokeh lights, cozy mood. Near-knee crop with accurate anatomy. Ultra-detailed professional photography look, vertical 1080x1920.",
     "category": "Men"
   },
@@ -24,7 +24,7 @@
   {
     "id": 106,
     "title": "Garden Date Romance",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768049450/IMG_106_xuqzar.jpg",
     "prompt": "Use the uploaded image as the absolute facial reference and keep identity unchanged. Create a romantic outdoor garden café scene where the man smiles warmly while holding red roses. Soft sunlight filtering through trees, wooden table, peaceful romantic vibe. Elegant casual outfit. Near-knee framing with natural body extension. Ultra-realistic skin texture and cinematic tones, 1080x1920.",
     "category": "Men"
   },
@@ -34,7 +34,7 @@
   {
     "id": 108,
     "title": "Street Art Rebel Look",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768049449/IMG_108_yjo2ai.jpg",
     "prompt": "Use the uploaded face as the ONLY identity reference and maintain exact likeness. Create an urban street portrait with graffiti-covered walls. Confident leaning pose, oversized t-shirt, dark pants, sneakers. Strong side sunlight, bold shadows, raw street-style vibe. Near-knee crop with realistic anatomy. Ultra-realistic cinematic urban photography, 1080x1920.",
     "category": "Men"
   },
@@ -44,7 +44,7 @@
   {
     "id": 110,
     "title": "Rooftop Sunset Chill",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768049451/IMG_110_onqp8a.jpg",
     "prompt": "Preserve facial identity perfectly. Create a cinematic rooftop sunset portrait where the man sits relaxed wearing headphones, gazing toward the sky. Warm sunset tones, soft clouds, emotional calm mood. Casual outfit. Natural rim light. Near-knee framing with realistic extension. Ultra-detailed cinematic look, 1080x1920.",
     "category": "Men"
   },
@@ -54,7 +54,7 @@
   {
     "id": 112,
     "title": "Neon Alley Fashion",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768049623/IMG_112_agrhey.jpg",
     "prompt": "Use the uploaded image as the ONLY facial identity reference. Face must remain untouched. Create a cinematic street-style portrait in a narrow neon-lit alley with glowing signs and graffiti. Oversized graphic t-shirt, ripped jeans, relaxed stance. Moody urban lighting, shallow depth of field. Near-knee crop with realistic extension. Ultra-realistic fashion editorial style, 1080x1920.",
     "category": "Men"
   },
@@ -64,7 +64,7 @@
   {
     "id": 114,
     "title": "Traveler Monument Moment",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768049623/IMG_114_bglqpn.jpg",
     "prompt": "Preserve facial features with perfect accuracy. Create a cinematic travel portrait of a man seated near an iconic monument at dusk, holding a camera. Calm explorer mood, reflective environment, pastel sky. Casual travel clothing. Near-knee framing with realistic body extension. Ultra-detailed cinematic depth, 1080x1920.",
     "category": "Men"
   },
@@ -74,7 +74,7 @@
   {
     "id": 116,
     "title": "Creative Studio Thoughts",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768049624/IMG_116_ww640s.jpg",
     "prompt": "Use the uploaded image as the sole facial reference and keep the face 100% unchanged. Create an artistic studio portrait with dramatic lighting where the man sits on a wooden chair while papers float around him mid-air. Moody shadows, thoughtful expression, minimalist outfit. Cinematic storytelling feel. Near-knee crop with natural body extension. Ultra-realistic fine-art photography, 1080x1920.",
     "category": "Men"
   },
@@ -84,7 +84,7 @@
   {
     "id": 118,
     "title": "Graffiti Steps Confidence",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768049623/IMG_118_ozvg9x.jpg",
     "prompt": "Preserve the uploaded face exactly. Create a bold street portrait of a man sitting on graffiti-covered city steps. Casual outfit with sneakers and sunglasses. Relaxed confident pose, strong urban depth. Natural daylight, sharp focus. Near-knee framing with accurate anatomy. Ultra-detailed street photography, 1080x1920.",
     "category": "Men"
   },
@@ -94,7 +94,7 @@
   {
     "id": 120,
     "title": "Mountain Guitar Serenity",
-    "imageUrl": "",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768049623/IMG_120_shrutg.jpg",
     "prompt": "Preserve facial identity with absolute accuracy. Create a cinematic mountain meadow scene at golden hour where the man sits playing an acoustic guitar among wildflowers. Mountains and cabin in background, warm sunlight, peaceful musical mood. Casual flannel outfit. Near-knee framing with natural body extension. Ultra-realistic cinematic landscape portrait, 1080x1920.",
     "category": "Men"
   }
