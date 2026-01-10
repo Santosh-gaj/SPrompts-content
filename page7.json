@@ -1,6 +1,11 @@
 [
-  { "id": 121, "title": "", "imageUrl": "", "prompt": "", "category": "Couple" },
-
+  {
+    "id": 121,
+    "title": "Golden Hour Intimate Gaze",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768068960/IMG_121_rfxe9x.jpg",
+    "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference. The woman’s face must remain 100% unchanged and perfectly preserved with no alterations to facial structure, skin tone, expression, or features. Create an intimate cinematic portrait of a woman resting her chin gently on her hand, wearing minimal elegant jewelry including a gold ring and wristwatch. Warm golden indoor lighting softly illuminates her face, creating natural skin texture and subtle shadows. Background softly blurred with warm amber tones. Calm, thoughtful expression with direct eye contact. Shallow depth of field, professional DSLR look, ultra-realistic skin detail. Near-knee vertical framing with intelligent body extension if needed. Cinematic color grading, premium photography style, vertical 1080x1920.",
+    "category": "Women"
+  },
   {
     "id": 122,
     "title": "Graffiti Street Commander",
@@ -8,9 +13,13 @@
     "prompt": "Use the uploaded image as the ONLY facial identity reference. Preserve the face perfectly with zero alteration. Create a cinematic urban street portrait of a man standing confidently in front of a colorful graffiti wall. Olive bomber jacket, black t-shirt, black cargo joggers, white sneakers. Hands in pockets, powerful stance. Natural daylight with soft shadows and shallow depth of field. Near-knee crop with realistic body extension. Ultra-realistic cinematic street photography, 1080x1920.",
     "category": "Men"
   },
-
-  { "id": 123, "title": "", "imageUrl": "", "prompt": "", "category": "Couple" },
-
+  {
+    "id": 123,
+    "title": "Sunlit Travel Joy",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768069181/IMG_123_dvbvmp.jpg",
+    "prompt": "Use the uploaded image as the ONLY facial identity reference and keep the face perfectly preserved. Generate a bright outdoor lifestyle portrait of a woman smiling joyfully while shielding sunlight with her raised hands. She wears a soft white casual shirt, round sunglasses, and delicate jewelry. Strong natural daylight, clear blue sky, warm sun highlights on skin and hair. Breezy, carefree travel mood. Soft background blur with architectural elements. Ultra-realistic photography, crisp details, natural shadows. Near-knee vertical framing with realistic body completion. Cinematic lifestyle color grading, 1080x1920.",
+    "category": "Women"
+  },
   {
     "id": 124,
     "title": "Neon Studio Face Lock",
@@ -18,9 +27,13 @@
     "prompt": "Preserve the uploaded face exactly as-is. Create a dramatic studio portrait with neon blue and orange rim lighting sculpting the face. Dark background, intense eye contact, clean skin texture, high-contrast cinematic lighting. Minimal outfit with futuristic mood. Extend framing naturally to near-knee if needed. Ultra-detailed hyper-realistic studio photography, vertical 1080x1920.",
     "category": "Men"
   },
-
-  { "id": 125, "title": "", "imageUrl": "", "prompt": "", "category": "Couple" },
-
+  {
+    "id": 125,
+    "title": "Classic Monochrome Elegance",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768069149/IMG_125_b44nqi.jpg",
+    "prompt": "Preserve the uploaded face exactly as-is with zero changes. Create a timeless black-and-white cinematic portrait of a woman in traditional attire, captured in a gentle candid moment while adjusting her hair. Soft natural light, smooth grayscale tones, subtle contrast. Traditional jewelry including nose ring and earrings visible. Peaceful smile, graceful expression. Shallow depth of field with softly blurred background. Ultra-detailed monochrome photography, classic film look. Near-knee vertical framing with accurate anatomy. Professional portrait quality, 1080x1920.",
+    "category": "Women"
+  },
   {
     "id": 126,
     "title": "Metro Walk Cinematic",
@@ -28,9 +41,13 @@
     "prompt": "Use the uploaded image as the absolute facial reference. Maintain exact likeness. Create a cinematic subway platform scene with a moving train blurred in the background. Subject walks confidently toward camera wearing a leather jacket, graphic t-shirt, neutral pants, and sneakers. Motion blur behind, sharp focus on subject. Urban cinematic lighting. Near-knee framing with realistic anatomy. Ultra-realistic city photography, 1080x1920.",
     "category": "Men"
   },
-
-  { "id": 127, "title": "", "imageUrl": "", "prompt": "", "category": "Couple" },
-
+  {
+    "id": 127,
+    "title": "Serene Literary Morning",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768069651/IMG_127_q574y6.jpg",
+    "prompt": "Use the uploaded image as the absolute facial reference and keep identity unchanged. Create a serene outdoor morning portrait of a woman wearing a soft white saree, holding a book close to her chest. Eyes gently closed, peaceful smile, jasmine flowers in her hair. Warm morning sunlight filtering through trees, soft shadows, pastel color tones. Calm, reflective mood. Ultra-realistic skin texture, cinematic depth. Near-knee crop with natural body extension if required. Premium lifestyle photography look, vertical 1080x1920.",
+    "category": "Women"
+  },
   {
     "id": 128,
     "title": "City Rooftop After Hours",
@@ -38,9 +55,13 @@
     "prompt": "Preserve facial identity with perfect accuracy. Create a moody nighttime rooftop portrait overlooking a glowing city skyline. Subject leans against a railing with relaxed confidence. Black suit with loosened tie, subtle accessories. Teal and warm city lights blend naturally. Near-knee crop with realistic body extension. Ultra-detailed cinematic night photography, 1080x1920.",
     "category": "Men"
   },
-
-  { "id": 129, "title": "", "imageUrl": "", "prompt": "", "category": "Couple" },
-
+  {
+    "id": 129,
+    "title": "Playful Nature Glance",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768069652/IMG_129_wazfxa.jpg",
+    "prompt": "Preserve the uploaded face perfectly with exact likeness. Create a bright natural outdoor portrait of a woman sitting beside a lush green waterbody, turning back with a playful smile toward the camera. She wears a blue patterned dress and carries a small fabric sling bag. Soft daylight, rich greenery, fresh color tones. Natural candid expression. Shallow depth of field with vibrant yet realistic colors. Near-knee vertical framing with realistic body proportions. Ultra-detailed lifestyle photography, 1080x1920.",
+    "category": "Women"
+  },
   {
     "id": 130,
     "title": "Cafe Racer Presence",
@@ -48,9 +69,13 @@
     "prompt": "Use the uploaded face as the ONLY identity reference. Keep facial features unchanged. Create a cinematic lifestyle portrait of a man seated confidently on a custom black motorcycle outside a modern café. Sleeveless black t-shirt, jeans, sneakers. Moody natural light with reflections on glass and shallow depth of field. Near-knee framing with realistic anatomy. Ultra-realistic premium photography, 1080x1920.",
     "category": "Men"
   },
-
-  { "id": 131, "title": "", "imageUrl": "", "prompt": "", "category": "Couple" },
-
+  {
+    "id": 131,
+    "title": "Warm Window Glow",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768069652/IMG_131_hzxhps.jpg",
+    "prompt": "Use the uploaded image as the ONLY facial identity reference. Face must remain untouched. Create a cozy indoor cinematic portrait of a woman leaning near a window, smiling softly. Warm yellow ambient light illuminates her face, creating gentle highlights and cinematic shadows. Soft background blur, intimate mood, natural skin texture. Casual elegant outfit. Near-knee vertical framing with seamless body extension. Ultra-realistic cinematic lighting, professional photography style, 1080x1920.",
+    "category": "Women"
+  },
   {
     "id": 132,
     "title": "Silent Classroom Rebel",
@@ -58,9 +83,13 @@
     "prompt": "Use the uploaded image as the ONLY facial identity reference. Preserve facial features perfectly. Create a cinematic indoor classroom scene where the man sits casually on a bench with legs resting on a desk, wearing headphones. Warm afternoon sunlight through windows, dramatic shadows. Vintage classroom elements visible. Calm rebellious mood. Near-knee crop with realistic body extension. Ultra-realistic cinematic storytelling, 1080x1920.",
     "category": "Men"
   },
-
-  { "id": 133, "title": "", "imageUrl": "", "prompt": "", "category": "Couple" },
-
+  {
+    "id": 133,
+    "title": "Quiet Thoughts in Nature",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768069651/IMG_133_cec8nn.jpg",
+    "prompt": "Preserve facial identity with absolute accuracy. Create a contemplative outdoor portrait of a woman lying on green grass, gazing upward thoughtfully. A book rests nearby, soft sunlight filtering through leaves casting natural shadows. Calm introspective mood, realistic skin texture. Shallow depth of field, cinematic storytelling look. Near-knee vertical crop with realistic anatomy. Ultra-detailed natural light photography, 1080x1920.",
+    "category": "Women"
+  },
   {
     "id": 134,
     "title": "Rainy Railway Platform Wait",
@@ -68,9 +97,13 @@
     "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference. Facial identity must remain completely unchanged. Create a cinematic rainy evening scene on an empty railway platform. The man sits on a metal bench, rain-soaked ground reflecting station lights, droplets visible in the air. Train tracks fade into darkness, station signs softly blurred. Subject wears a casual jacket, dark pants, white sneakers, hands clasped, lost-in-thought expression. Cool blue-gray color palette, emotional solitude mood. Frame from head to near-knee level with realistic body completion. Ultra-detailed, photorealistic, cinematic rain effects, 8K quality, vertical 1080x1920.",
     "category": "Men"
   },
-
-  { "id": 135, "title": "", "imageUrl": "", "prompt": "", "category": "Couple" },
-
+  {
+    "id": 135,
+    "title": "Twilight Coastal Silence",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768069651/IMG_135_crzyu1.jpg",
+    "prompt": "Use the uploaded image as the PRIMARY facial reference only. Keep face 100% unchanged. Create a cinematic seaside portrait at dusk with the woman seen in soft profile. Warm city bokeh lights glow in the distance, gentle evening wind in her hair. Elegant earrings visible, deep emotional calm mood. Soft low-light exposure with cinematic color grading. Near-knee vertical framing with natural body extension. Ultra-realistic twilight photography, 1080x1920.",
+    "category": "Women"
+  },
   {
     "id": 136,
     "title": "Abandoned Factory Silence",
@@ -78,9 +111,13 @@
     "prompt": "Use the uploaded image as the PRIMARY and ONLY facial identity reference. Preserve the face perfectly with zero alteration. Create a dramatic cinematic portrait of a man sitting on a rusted metal step inside an abandoned factory. Broken windows allow cold blue light to enter, dust particles floating in the air. Industrial textures, peeling paint, steel beams in the background. Subject wears a muted casual outfit, slightly slouched posture, distant thoughtful gaze. Dark moody tones with cinematic contrast. Near-knee framing with realistic body extension if needed. Ultra-realistic, emotional storytelling, 8K detail, vertical 1080x1920.",
     "category": "Men"
   },
-
-  { "id": 137, "title": "", "imageUrl": "", "prompt": "", "category": "Couple" },
-
+  {
+    "id": 137,
+    "title": "Golden Breeze Saree Mood",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768069651/IMG_137_sgkqts.jpg",
+    "prompt": "Preserve the uploaded face exactly. Create a cinematic outdoor portrait of a woman standing against a scenic horizon during golden hour. She wears a flowing multi-toned saree and simple blouse, hair gently moving in the breeze. Warm sunlight highlights fabric textures and skin tones. Thoughtful side gaze, calm expression. Shallow depth of field, cinematic color grading. Near-knee crop with realistic proportions. Ultra-detailed professional photography, 1080x1920.",
+    "category": "Women"
+  },
   {
     "id": 138,
     "title": "Bus Stand Midnight Solitude",
@@ -88,9 +125,13 @@
     "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference. The face must remain 100% unchanged with exact preservation of all facial features, skin tone, age, and expression. Create a cinematic night-time portrait of a man sitting alone on a deserted bus stand bench. Dim sodium streetlights cast warm-yellow pools of light, empty road stretching behind him, distant headlights blurred into bokeh. Subject wears a casual dark shirt, trousers, and white sneakers, elbows resting on knees, introspective expression. Moody atmosphere, light fog, soft shadows. Frame from head to near-knee level; if the source image is cropped, intelligently extend the lower body with realistic anatomy and perspective. Ultra-detailed, photorealistic, cinematic color grading, 8K quality, vertical 1080x1920.",
     "category": "Men"
   },
-
-  { "id": 139, "title": "", "imageUrl": "", "prompt": "", "category": "Couple" },
-
+  {
+    "id": 139,
+    "title": "Urban Retro Confidence",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1768069651/IMG_139_yyhrhq.jpg",
+    "prompt": "Use the uploaded image as the ONLY facial identity reference and maintain perfect likeness. Create a stylish urban portrait of a woman wearing a dark patterned saree and round sunglasses. Confident pose, chin slightly raised, bold yet elegant mood. Soft daylight with subtle contrast, muted city background blur. Ultra-realistic skin detail, editorial fashion look. Near-knee vertical framing with accurate anatomy. Cinematic urban photography, 1080x1920.",
+    "category": "Women"
+  },
   {
     "id": 140,
     "title": "Railway Track Solitude",
