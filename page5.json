@@ -6,7 +6,6 @@
     "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference. Preserve the woman's face 100% exactly with no alteration to facial structure, skin tone, expression, eyes, nose, lips, or hairline. Create an ultra-realistic cinematic portrait of a young Indian woman standing in a quiet temple corridor, gently turning back toward the camera while holding a fresh sunflower. She wears a traditional saree with soft earthy patterns. Natural diffused daylight filters through stone pillars creating depth and soft shadows. Calm, graceful, emotional expression. Near-knee vertical framing (1080x1920). If the body is cropped, intelligently extend anatomy with realistic proportions. DSLR-quality photography, shallow depth of field, cinematic color grading, natural skin texture, ultra-detailed realism.",
     "category": "Women"
   },
-
   {
     "id": 82,
     "title": "Golden Field Guitarist",
@@ -14,7 +13,6 @@
     "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference. Preserve the face perfectly with zero alteration. Create a cinematic outdoor portrait of a young man sitting in a vast mustard flower field during golden hour, playing an acoustic guitar. Subject wears a black leather jacket over a white t-shirt, dark jeans, casual sneakers. Soft warm sunlight, shallow depth of field, yellow flowers in foreground and background, tall trees blurred behind. Calm joyful expression. Near-knee crop, realistic body extension if needed. Natural skin texture, cinematic color grading, ultra-realistic photography, DSLR quality, 8K detail. Vertical 1080x1920.",
     "category": "Men"
   },
-
   {
     "id": 83,
     "title": "Heritage Balcony Blue Saree",
@@ -22,7 +20,6 @@
     "prompt": "Use the uploaded image as the ONLY facial identity reference. Keep facial identity perfectly preserved. Create an ultra-detailed cinematic portrait of a woman wearing a deep blue saree with silver jewelry, standing beside an aged heritage building with weathered walls and climbing greenery. Overcast daylight creates a moody, dramatic atmosphere. Soft shadows enhance facial depth. Expression is thoughtful and serene. Background remains softly blurred. Near-knee vertical framing (1080x1920). Film-style color grading, professional portrait realism.",
     "category": "Women"
   },
-
   {
     "id": 84,
     "title": "Peaceful Meadow Escape",
@@ -30,7 +27,6 @@
     "prompt": "Use the uploaded image as the PRIMARY facial identity reference only. Face must remain perfectly unchanged. Create a serene cinematic scene of a man lying in a wildflower meadow, hands behind head, wearing headphones, relaxed expression. A book rests on his chest, a fluffy cat sleeping beside him. Soft afternoon light, pastel tones, dreamy bokeh grass and flowers, peaceful mood. Red checkered shirt, black t-shirt underneath. Near-knee framing with realistic body completion if needed. Ultra-detailed, photorealistic, soft shadows, cinematic look, 1080x1920.",
     "category": "Men"
   },
-
   {
     "id": 85,
     "title": "Lake Boat Smile Serenity",
@@ -38,7 +34,6 @@
     "prompt": "Preserve the uploaded face with absolute accuracy. Create a cinematic lifestyle portrait of a woman sitting gracefully on a wooden boat floating on a calm lake. She wears a green saree with a white blouse and minimal jewelry. Warm sunset reflections glow on the water. Joyful, natural smile. Shoes placed naturally beside her. Shallow depth of field with smooth water bokeh. Near-knee framing (1080x1920). Ultra-realistic skin texture, cinematic travel photography style.",
     "category": "Women"
   },
-
   {
     "id": 86,
     "title": "Bedroom Guitar Session",
@@ -46,7 +41,6 @@
     "prompt": "Preserve the uploaded face exactly as-is. Generate an intimate indoor cinematic portrait of a man sitting on a bed, playing an acoustic guitar. Moody window light casting diagonal shadows on the wall. Casual modern outfit, textured jacket, tousled hair. Warm highlights, soft contrast, shallow depth of field. Emotional, candid moment. Extend frame to near-knee level naturally. Ultra-realistic skin texture, cinematic photography style, 8K clarity, vertical 1080x1920.",
     "category": "Men"
   },
-
   {
     "id": 87,
     "title": "Rocky Shore Golden Hour Calm",
@@ -54,7 +48,6 @@
     "prompt": "Use the uploaded image as the PRIMARY facial reference. Maintain exact facial likeness. Create an ultra-realistic cinematic portrait of a woman sitting on rugged coastal rocks during golden hour. She wears a black saree with subtle traditional borders. Warm sunlight softly illuminates her face, hair gently moved by sea breeze. Calm, reflective pose. Background rocks detailed yet softly blurred. Near-knee vertical framing (1080x1920). Cinematic shadows, natural highlights, film-grade color tones.",
     "category": "Women"
   },
-
   {
     "id": 88,
     "title": "Minimal Shadow Portrait",
@@ -62,7 +55,6 @@
     "prompt": "Use the uploaded image as the sole facial reference. Maintain exact facial identity. Create a high-fashion minimalist portrait with dramatic hard light and deep shadows. Subject wears a black textured shirt and sunglasses, head slightly down, confident and mysterious mood. Clean white wall background, sharp contrast lighting, editorial style. Near-knee crop with realistic anatomy. Ultra-detailed, studio quality, cinematic shadows, 1080x1920.",
     "category": "Men"
   },
-
   {
     "id": 89,
     "title": "Green Field Traditional Joy",
@@ -70,7 +62,6 @@
     "prompt": "Preserve facial identity perfectly with zero modification. Create a vibrant cinematic portrait of a woman sitting in a lush green field wearing a red traditional saree with matching bangles and jewelry. Bright natural daylight, fresh greenery, joyful expression. Soft breeze movement in fabric and hair. Shallow depth of field. Near-knee framing (1080x1920). Ultra-realistic skin detail, colorful cinematic grading, DSLR realism.",
     "category": "Women"
   },
-
   {
     "id": 90,
     "title": "Sunset Silhouette Mood",
@@ -86,7 +77,6 @@
     "prompt": "Use the uploaded image as the ONLY facial identity reference. Face must remain unchanged. Create a cinematic street-market portrait of a woman wearing a white saree with an embroidered blouse, gently examining colorful bangles under warm hanging lights. Golden bokeh fills the background. Soft smile, candid emotion. Near-knee vertical framing (1080x1920). Ultra-detailed textures, realistic lighting, festive cinematic mood.",
     "category": "Women"
   },
-
   {
     "id": 92,
     "title": "Urban Vintage Car Pose",
@@ -94,7 +84,6 @@
     "prompt": "Use the uploaded image as the only facial identity reference. Face must not change. Create a stylish urban cinematic scene where the man sits confidently on the hood of a vintage car in an apartment street. Golden hour sunlight, warm tones, sunglasses, casual denim outfit. Shallow depth of field, cinematic city background. Near-knee framing, realistic body completion. Ultra-detailed, realistic shadows, professional photography look, 1080x1920.",
     "category": "Men"
   },
-
   {
     "id": 93,
     "title": "Patterned Light Happiness",
@@ -110,7 +99,6 @@
     "prompt": "Preserve facial identity with absolute accuracy. Create a dramatic cinematic fantasy scene of a man walking down a tree-lined road at dusk, holding a guitar engulfed in realistic flames. Embers floating in air, intense expression, black suit outfit. Fire lighting reflects on face and clothes. Dark moody environment, cinematic fog. Near-knee crop, realistic anatomy. Ultra-realistic VFX, 8K detail, 1080x1920.",
     "category": "Men"
   },
-
   {
     "id": 95,
     "title": "Peacock Feather Poise",
@@ -126,7 +114,6 @@
     "prompt": "Use uploaded image as the only facial reference. Face must remain untouched. Create a magical cinematic portrait of a man gently holding glowing light strands as a luminous butterfly floats above his hands. Deep red background, soft glowing particles, warm magical lighting. Emotional hopeful expression. Near-knee framing with realistic extension. Ultra-detailed fantasy realism, cinematic lighting, 1080x1920.",
     "category": "Men"
   },
-
   {
     "id": 97,
     "title": "Countryside Floral Smile",
@@ -134,7 +121,6 @@
     "prompt": "Preserve facial identity with absolute accuracy. Create a cinematic countryside portrait of a woman leaning on a wooden fence wearing a floral dress with a light dupatta. Soft daylight, green fields in background, cheerful natural smile. Shallow depth of field. Near-knee vertical framing (1080x1920). Ultra-realistic colors, lifestyle photography quality.",
     "category": "Women"
   },
-
   {
     "id": 98,
     "title": "Burning Memory Night",
@@ -142,7 +128,6 @@
     "prompt": "Preserve the face exactly as uploaded. Create a dramatic night-time cinematic scene where the man holds a burning photograph while smoking, emotional and intense mood. Warm fire light illuminates face, cool blue city bokeh in background. Strong storytelling portrait. Near-knee crop with natural body extension. Ultra-realistic skin texture, cinematic color grading, 1080x1920.",
     "category": "Men"
   },
-
   {
     "id": 99,
     "title": "Auto Ride Flower Story",
@@ -150,7 +135,6 @@
     "prompt": "Use the uploaded image as the ONLY facial identity reference. Preserve face perfectly. Create a cinematic street portrait of a woman sitting inside an auto-rickshaw holding pink flowers, softly smiling toward the street. Urban background blurred with motion. Warm daylight mixed with street shadows. Natural candid emotion. Near-knee framing (1080x1920). Ultra-realistic street photography with cinematic color grading.",
     "category": "Women"
   },
-
   {
     "id": 100,
     "title": "Smoke and Fire Studio Mood",
