@@ -28,7 +28,7 @@
         "category": "Couple"
     }, {
         "id": 45,
-        "title": "Couple Bike Ride Romance",
+        "title": "Couple Sleeping on Beach",
         "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1767720555/IMG_045_armypb.jpg",
         "prompt": "Use the uploaded image as the PRIMARY, ABSOLUTE, and ONLY facial identity reference for both individuals. Faces must remain 100% unchanged.\n\nGenerate an ultra-realistic cinematic couple portrait in vertical 1080x1920 resolution. Scene: tree-lined urban road with soft green canopy overhead and blurred cars in the background. The man rides a classic motorcycle while the woman sits behind him, arms wrapped around his shoulders, smiling warmly.\n\nClothing: Man wears a fitted blue t-shirt and jeans. Woman wears a casual green top and patterned pants, hair flowing naturally in motion.\n\nLighting: natural daylight, balanced exposure, subtle motion feel. Camera angle: frontal, centered on motorcycle headlight.\n\nFraming: near-knee crop. If image is cropped, seamlessly extend legs, motorcycle body, road surface, and background traffic with correct scale and motion blur. Cinematic realism, high detail, lifestyle photography look.",
         "category": "Couple"
