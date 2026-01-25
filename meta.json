@@ -6,6 +6,7 @@
     { "key": "women", "title": "Women" },
     { "key": "couple", "title": "Couple" },
     { "key": "poster", "title": "Posters" },
-    { "key": "birthday", "title": "Birthday" }
+    { "key": "birthday", "title": "Birthday" },
+    { "key": "events", "title": "Events" }
   ]
 }
