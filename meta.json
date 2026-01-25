@@ -1,3 +1,10 @@
 {
-  "totalPages": 9
+  "totalPages": 9,
+  "categories": [
+    { "key": "men", "title": "Men" },
+    { "key": "women", "title": "Women" },
+    { "key": "couple", "title": "Couple" },
+    { "key": "poster", "title": "Posters" },
+    { "key": "birthday", "title": "Birthday" }
+  ]
 }
