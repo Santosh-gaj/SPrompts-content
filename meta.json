@@ -5,7 +5,7 @@
     { "key": "men", "title": "Men" },
     { "key": "women", "title": "Women" },
     { "key": "couple", "title": "Couple" },
-    { "key": "posters", "title": "Posters" },
+    { "key": "poster", "title": "Poster" },
     { "key": "birthday", "title": "Birthday" }
   ]
 }
