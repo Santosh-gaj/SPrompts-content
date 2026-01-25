@@ -1,6 +1,7 @@
 {
   "totalPages": 9,
   "categories": [
+    { "key": "trending", "title": "Trending" },
     { "key": "men", "title": "Men" },
     { "key": "women", "title": "Women" },
     { "key": "couple", "title": "Couple" },
