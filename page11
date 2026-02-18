@@ -1,0 +1,142 @@
+[
+  {
+    "id": 201,
+    "title": "Outdoor Selfie Portrait – Sky Background",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1771245313/IMG_201_uufb4e.jpg",
+    "prompt": "Ultra-realistic image-to-image transformation using the provided reference image. Preserve the exact face identity, facial structure, skin tone, expression, hairstyle, and natural smile of the person from the input image with high fidelity. Keep the same pose and selfie perspective with the arm extended toward the camera, relaxed seated posture, and cheerful expression. Maintain natural wind-blown long hair, round tinted sunglasses, striped blue-and-white knit top, light-colored pants, and soft outdoor lighting. Background should remain an open bright blue sky with soft scattered clouds, giving a fresh daylight atmosphere. Preserve natural skin texture, realistic lighting, subtle shadows, and depth-of-field. Enhance image quality to ultra-detailed, DSLR-level realism, sharp focus on the face, cinematic yet natural color grading, high dynamic range, and realistic fabric textures. Do not alter identity, age, gender, or facial proportions. Keep composition similar to the original while improving clarity and realism. Style: photorealistic, high-resolution, ultra-detailed, natural outdoor portrait, img-to-img face-preserving transformation.",
+    "category": "Women"
+  },
+  {
+    "id": 202,
+    "title": "Classic Car Editorial Style",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1771385013/IMG_202_ffl5vj.jpg",
+    "prompt": "Ultra-realistic image-to-image transformation using the provided reference photo. Preserve the exact same person’s identity, face structure, facial proportions, skin tone, hairstyle, expression, and overall likeness with very high fidelity (face must remain fully recognizable and unchanged). Keep the same pose and body language: leaning casually on a vintage blue car, one leg slightly raised, jacket resting over the shoulder, relaxed confident fashion posture. Maintain the same outfit details including light shirt, dark trousers, sunglasses, watch, shoes, and styling. Preserve the vintage vehicle and urban outdoor setting with similar framing, perspective, and depth of field. Keep the cinematic lifestyle editorial mood with natural soft lighting and subtle background blur. Enhance realism with DSLR-quality sharp focus on the subject, natural skin texture, realistic shadows, balanced contrast, cinematic but natural color grading, ultra-detailed textures, high resolution, photo-realistic output. Do not alter facial features or body proportions, no extra accessories, no text or watermark, no unwanted edits.",
+    "category": "Men"
+  },
+  {
+    "id": 203,
+    "title": "Sky Portrait with Heart Cloud",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1771385048/IMG_203_w21u9o.jpg",
+    "prompt": "Ultra-realistic image-to-image transformation based on the provided reference image. Preserve the exact face identity, facial structure, skin tone, hairstyle, and overall appearance of the person from the input image with high fidelity. Change the pose naturally into a new relaxed half-body composition: upper body visible from head to mid-thigh, body slightly turned sideways with gentle posture, shoulders relaxed, one arm naturally resting and the other lightly bent to create a candid portrait feel. Maintain the same calm, soft expression and natural beauty while allowing realistic pose variation. Keep long wavy hair flowing naturally with soft movement. Preserve clothing style and textures, keeping a light-toned outfit with subtle blue floral patterns and realistic fabric folds. Background remains a clear bright blue sky with a soft heart-shaped cloud above or near the subject, maintaining a dreamy outdoor atmosphere. Natural daylight lighting, soft shadows, realistic skin texture, and smooth depth-of-field. Enhance quality to ultra-detailed photorealism, DSLR-level sharpness, cinematic yet natural color grading, high dynamic range, and realistic proportions. Do not alter identity, age, or facial proportions. Style: photorealistic, ultra-detailed outdoor portrait, half-body framing, face-preserving img-to-img transformation with natural pose change.",
+    "category": "Women"
+  },
+  {
+    "id": 204,
+    "title": "Mountain Ride",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1771385070/IMG_204_hfwl1q.jpg",
+    "prompt": "Ultra-realistic image-to-image transformation using the provided reference photo. Preserve the exact same person’s identity, face structure, facial proportions, skin tone, hairstyle, expression, and overall likeness with very high fidelity (face must remain fully recognizable and unchanged). Keep the same pose and body language: sitting confidently on a motorcycle, one hand resting naturally, looking away with a stylish adventurous attitude. Maintain the same clothing style and colors, including the white jacket, inner shirt, dark pants, accessories, and sunglasses. Preserve the outdoor mountain environment with natural daylight, blue sky, clouds, and scenic background while keeping similar framing and perspective. Keep the motorcycle design and positioning consistent with the reference image. Enhance realism with DSLR-quality sharp focus on the subject, natural skin texture, realistic lighting and shadows, balanced contrast, cinematic yet natural color grading, ultra-detailed textures, high resolution, photo-realistic output. Do not alter facial features or body proportions, no extra accessories, no text or watermark, no unwanted edits.",
+    "category": "Men"
+  },
+  {
+    "id": 205,
+    "title": "Travel Portrait",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1771385082/IMG_205_jk6cu5.jpg",
+    "prompt": "Ultra-realistic image-to-image transformation using the provided reference photo. Preserve the exact same person’s identity, face structure, facial proportions, skin tone, lips, hairstyle, expression, and overall likeness with very high fidelity (face must remain fully recognizable and unchanged). Keep the same pose and body language: standing confidently, blowing a kiss toward the camera, natural hand positions, stylish candid travel vibe. Maintain the same outfit colors and style (mustard/yellow traditional attire), accessories, and sunglasses. Preserve the iconic heritage architectural background with detailed pink-toned facade, symmetrical windows, and cultural aesthetic, keeping the same perspective and framing. Retain the street environment with slight motion blur from passing vehicles to create a dynamic travel-photo feel. Enhance realism with DSLR-quality sharp focus on the subject, natural skin texture, realistic lighting, balanced contrast, cinematic yet natural color grading, soft depth of field where appropriate, ultra-detailed textures, high resolution, photo-realistic output. Do not alter facial features, do not change clothing design or colors, no extra objects, no text, no watermark.",
+    "category": "Women"
+  },
+  {
+    "id": 206,
+    "title": "Sunset Beach Portrait",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1771385091/IMG_206_xktmvu.jpg",
+    "prompt": "Ultra-realistic image-to-image transformation using the provided reference photo. Preserve the exact same person’s identity, face structure, facial proportions, skin tone, hairstyle, expression, and overall likeness with very high fidelity (face must remain fully recognizable and unchanged). Keep the same pose and body language: standing relaxed with hands in pockets, looking to the side with a calm confident lifestyle attitude. Maintain the same outfit and styling including the bright pink shirt, light pants, sunglasses, and overall vacation aesthetic. Preserve the tropical beach setting with sunset sky, ocean horizon, palm trees, and resort-like background while keeping similar composition and framing. Maintain the warm sunset lighting and natural ambient glow. Enhance realism with DSLR-quality sharp focus on the subject, natural skin texture, realistic lighting and shadows, balanced contrast, cinematic yet natural color grading, ultra-detailed textures, high resolution, photo-realistic output. Do not alter facial features or body proportions, no extra accessories, no text or watermark, no unwanted edits.",
+    "category": "Men"
+  },
+  {
+    "id": 207,
+    "title": "Painterly Floral Illustration Style",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1771387517/IMG_207_mvqsxy.jpg",
+    "prompt": "ultra detailed cinematic knee-length portrait of a young woman sitting gracefully in a dark natural setting, framed from head to knees, surrounded by vivid red-orange blossoms and deep green leaves, soft dramatic warm lighting, painterly anime-inspired realism, smooth brush-like rendering, highly detailed facial features, gentle expression, natural glossy lips, subtle skin texture, elegant floral earrings, wearing the SAME red and white dress from the reference image with embroidered details, flowing fabric continuing naturally over the knees, modern traditional dress style (NOT a saree), accurate clothing continuity from source image, natural folds and fabric physics, full body proportions balanced, visible seated pose with hands and knees included, rich crimson and dark green color contrast, shallow depth of field, dreamy cinematic atmosphere, studio-quality lighting blended with natural ambiance, high dynamic range, ultra clean lines, refined color grading, 4k detail, vertical cinematic composition, img2img transformation preserving face identity, pose and hairstyle from source image, expand canvas to knee-length while maintaining original outfit design, stylized yet realistic, no distortion, no extra limbs, no text, no watermark",
+    "category": "Men"
+  },
+  {
+    "id": 208,
+    "title": "Night Car Portrait",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1771387523/IMG_208_c1qd1n.jpg",
+    "prompt": "Ultra-realistic image-to-image transformation using the provided reference photo. Preserve the exact same person’s identity, face structure, facial proportions, skin tone, hairstyle, facial hair, expression style, and overall likeness with very high fidelity (face must remain fully recognizable and unchanged). Keep the same pose and body language: seated in the driver’s seat inside a car at night, slightly turned toward the camera with a relaxed confident lifestyle vibe. IMPORTANT: keep both eyes open naturally (no wink, no closed eyes) with a calm, natural expression. Maintain the same clothing style and colors including the dark hoodie and light ripped jeans. Preserve the car interior details, steering wheel, dashboard lights, ambient cabin glow, and nighttime atmosphere with the same composition and perspective from the back-seat viewpoint. Add subtle cinematic visual effects similar to modern social media edits: soft glow highlights, gentle light bloom, mild film grain, clean HDR clarity, slightly enhanced contrast, smooth color grading, and tasteful neon-like ambient lighting accents — while keeping the image realistic and not over-processed. Enhance realism with DSLR-quality sharp focus on the subject, natural skin texture, realistic lighting and shadows, ultra-detailed textures, high resolution, photo-realistic output. Do not alter facial features or body proportions, no extra accessories, no text or watermark, no unwanted edits.",
+    "category": "Men"
+  },
+  {
+    "id": 209,
+    "title": "Restaurant Portrait",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1771387534/IMG_209_nma02q.jpg",
+    "prompt": "ultra detailed cinematic portrait of a young woman sitting on a wooden stool inside a warm Japanese-style restaurant, realistic photography style, soft warm ambient lighting from hanging lanterns, shallow depth of field, cozy background with blurred diners and kitchen area, natural candid smile, highly detailed face with realistic skin texture, long soft brown hair, natural makeup, wearing the SAME white shirt and colorful floral patterned skirt from the reference image, exact outfit continuity preserved, natural fabric folds and realistic clothing physics, relaxed seated pose turning slightly toward camera, elegant posture, warm cinematic color grading, golden indoor lighting, high dynamic range, professional lifestyle photography look, 4k detail, vertical composition, img2img transformation preserving facial identity, hairstyle, pose and clothing from source image, clean realistic proportions, no distortion, no extra limbs, no text, no watermark",
+    "category": "Women"
+  },
+  {
+    "id": 210,
+    "title": "Night Luxury Portrait",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1771387537/IMG_210_zjjh1e.jpg",
+    "prompt": "Ultra-realistic image-to-image transformation using the provided reference photo. Preserve the exact same person’s identity, face structure, facial proportions, skin tone, hairstyle, facial details, expression, and overall likeness with very high fidelity (face must remain fully recognizable and unchanged). Keep the same pose and body language: standing casually beside a luxury car in a parking garage, holding a bouquet in one hand and a phone in the other, relaxed stylish posture. Maintain the same clothing and styling including the black suit, dark shirt, sunglasses, watch, and elegant fashion aesthetic. Preserve the car position, lighting reflections, parking garage environment, and nighttime ambiance with similar framing and perspective. Add subtle cinematic lifestyle effects similar to high-end social media edits: soft highlight glow, realistic light bloom from overhead lights, mild film grain, clean HDR clarity, balanced contrast, cool-toned cinematic color grading, and soft background depth for a premium look while keeping realism. Enhance realism with DSLR-quality sharp focus on the subject, natural skin texture, realistic shadows, ultra-detailed textures, high resolution, photo-realistic output. Do not alter facial features or body proportions, no extra accessories, no text or watermark, no unwanted edits.",
+    "category": "Men"
+  },
+  {
+    "id": 211,
+    "title": "Beach Sunset Portrait",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1771387641/IMG_211_zrtpvf.jpg",
+    "prompt": "ultra detailed cinematic full-length portrait of a young woman standing barefoot on a beach during golden sunset, realistic photography style, warm golden sunlight reflecting on wet sand and ocean waves, soft natural wind moving long dark hair and flowing dress, highly detailed face with natural skin texture, gentle calm expression, wearing the SAME white floral sleeveless maxi dress with blue flower patterns from the reference image, exact outfit continuity preserved, flowing fabric with realistic movement, natural body proportions and relaxed pose, ocean horizon and glowing sun in background, soft cinematic color grading with warm orange and golden tones, high dynamic range, shallow depth of field, professional lifestyle photography look, 4k detail, vertical composition, img2img transformation preserving facial identity, hairstyle, pose and clothing from source image, realistic lighting and shadows, no distortion, no extra limbs, no text, no watermark",
+    "category": "Women"
+  },
+  {
+    "id": 212,
+    "title": "Cinematic Cliffside Portrait",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1771387651/IMG_212_imatv3.jpg",
+    "prompt": "Ultra-realistic image-to-image transformation using the provided reference photo. Preserve the exact same person’s identity, face structure, facial proportions, skin tone, hairstyle, facial details, expression, and overall likeness with very high fidelity (face must remain fully recognizable and unchanged). Keep the same pose and body language: lying relaxed on a narrow stone wall with hands behind the head, calm confident expression, adventurous cinematic mood. Maintain the same clothing and styling including the blue shirt, white inner t-shirt, neutral pants, and white sneakers. Preserve the dramatic cliffside location, ocean surroundings, stone architecture, and road below with similar framing, perspective, and scale. Keep the moody twilight atmosphere with cool tones and natural low-light ambiance. Add subtle cinematic visual effects such as soft highlight glow, mild film grain, realistic shadow depth, balanced contrast, and clean cinematic color grading while keeping the image natural and photo-realistic. Enhance realism with DSLR-quality sharp focus on the subject, natural skin texture, ultra-detailed textures, realistic lighting, high resolution, and photo-realistic output. Do not alter facial features or body proportions, no extra accessories, no text or watermark, no unwanted edits.",
+    "category": "Men"
+  },
+  {
+    "id": 213,
+    "title": "Winter Market Portrait",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1771396131/IMG_213_wvxbo4.jpg",
+    "prompt": "ultra detailed cinematic portrait of a young woman standing at a cozy winter market during evening, realistic photography style, warm festive lights and soft bokeh in background, gentle snowfall, glowing holiday atmosphere, highly detailed face with natural skin texture, soft natural smile, long dark hair partially visible under a knit beanie, visible warm breath in cold air, wearing the SAME cream knit cap, scarf, and dark winter jacket with fur-lined hood from the reference image, exact outfit continuity preserved, holding a warm mug with both hands, natural relaxed posture, realistic fabric textures and winter clothing details, warm golden lighting contrasting with cool evening tones, shallow depth of field, high dynamic range, lifestyle photography aesthetic, 4k detail, vertical composition, img2img transformation preserving facial identity, hairstyle, pose and clothing from source image, realistic lighting and shadows, no distortion, no extra limbs, no text, no watermark",
+    "category": "Women"
+  },
+  {
+    "id": 214,
+    "title": "Garden Walk Portrait",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1771396135/IMG_214_ncmmp2.jpg",
+    "prompt": "ultra detailed cinematic full-body portrait of a young man walking naturally along a stone pathway in a lush garden, realistic photography style, soft natural daylight, gentle background bokeh with blooming light blue flowers and green foliage, highly detailed face with natural skin texture, calm relaxed expression, short styled dark hair, wearing the SAME light cream short-sleeve shirt, black pants, and white sneakers from the reference image, exact outfit continuity preserved, natural fabric folds and realistic clothing physics, hands casually in pockets, natural walking posture with balanced body proportions, shallow depth of field, warm cinematic color grading, professional lifestyle photography aesthetic, high dynamic range, 4k detail, vertical composition, img2img transformation preserving facial identity, hairstyle, pose and clothing from source image, realistic lighting and shadows, no distortion, no extra limbs, no text, no watermark",
+    "category": "Men"
+  },
+  { 
+    "id": 215,
+    "title": "Winter Snow Portrait",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1771396144/IMG_215_pyol4f.jpg",
+    "prompt": "ultra detailed cinematic portrait of a young woman standing outdoors in a snowy winter landscape, realistic photography style, soft golden sunlight from behind creating warm rim light, gentle falling snowflakes, highly detailed face with natural skin texture, calm soft expression, long dark hair flowing naturally, wearing the SAME light blue knitted sweater and white fur shawl from the reference image, exact outfit continuity preserved, natural fabric textures and realistic winter clothing details, relaxed elegant pose with hands gently holding the shawl, dreamy shallow depth of field with softly blurred snowy trees in background, warm golden and cool blue color contrast, high dynamic range, professional lifestyle photography aesthetic, 4k detail, vertical composition, img2img transformation preserving facial identity, hairstyle, pose and clothing from source image, realistic lighting and shadows, no distortion, no extra limbs, no text, no watermark",
+    "category": "Women"
+  },
+  {
+    "id": 216,
+    "title": " Fashion Portrait",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1771396192/IMG_216_qd3yzg.jpg",
+    "prompt": "ultra detailed cinematic full-body portrait of a young man walking confidently in a modern minimalist indoor space, realistic photography style, soft diffused studio lighting, clean neutral background with subtle architectural curves, highly detailed face with natural skin texture, stylish groomed hair and light beard, confident expression, wearing sunglasses, wearing the SAME deep maroon open-collar shirt, white trousers, and white sneakers from the reference image, exact outfit continuity preserved, natural fabric folds and realistic clothing physics, accessories preserved including bracelet, watch and chain, relaxed walking pose with one hand touching sunglasses, balanced full-body proportions, shallow depth of field, elegant editorial fashion photography aesthetic, refined cinematic color grading, high dynamic range, 4k detail, vertical composition, img2img transformation preserving facial identity, hairstyle, pose and clothing from source image, realistic shadows and lighting interaction, no distortion, no extra limbs, no text, no watermark",
+    "category": "Men"
+  },
+  {
+    "id": 217,
+    "title": "Floral Portrait",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1771396205/IMG_217_za3ldu.jpg",
+    "prompt": "ultra detailed cinematic portrait of a young woman sitting gracefully on a wooden chair in front of blooming pink and orange flowers, realistic photography style, warm golden-hour sunlight, soft natural shadows, highly detailed face with natural skin texture, gentle calm expression, long wavy dark hair, subtle traditional makeup, wearing the SAME pink embroidered saree with gold detailing from the reference image, exact outfit continuity preserved, natural fabric folds and realistic textile texture, holding a bouquet of white flowers in her hands, elegant seated posture, floral garden atmosphere, shallow depth of field with softly blurred flowers in background, warm cinematic color grading, high dynamic range, professional portrait photography aesthetic, 4k detail, vertical composition, img2img transformation preserving facial identity, hairstyle, pose and clothing from source image, realistic lighting and shadows, no distortion, no extra limbs, no text, no watermark",
+    "category": "Women"
+  },
+  {
+    "id": 218,
+    "title": "Minimalist Fashion Portrait",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1771396225/IMG_218_cpkelj.jpg",
+    "prompt": "ultra detailed cinematic full-body portrait of a young man walking confidently inside a modern minimalist interior, realistic photography style, soft natural daylight entering the room, clean neutral tones with elegant architectural arch, decorative ropes and minimal vases in background, highly detailed face with natural skin texture, stylish hair and light facial hair, confident expression, wearing sunglasses, wearing the SAME olive green open-collar shirt, white trousers, and white sneakers from the reference image, exact outfit continuity preserved, realistic clothing folds and natural fabric movement, accessories preserved including watch and bracelet, relaxed walking pose with one hand touching sunglasses and the other in pocket, balanced full-body proportions, shallow depth of field, editorial fashion photography aesthetic, refined cinematic color grading, high dynamic range, 4k detail, vertical composition, img2img transformation preserving facial identity, hairstyle, pose and clothing from source image, realistic lighting and shadows, no distortion, no extra limbs, no text, no watermark",
+    "category": "Men"
+  },
+  {
+    "id": 219,
+    "title": " Elegant Indoor Portrait",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1771396238/IMG_219_cqvhub.jpg",
+    "prompt": "ultra detailed cinematic full-length portrait of a young woman standing gracefully indoors near a clean modern wall, realistic photography style, soft natural window light creating gentle shadows, highly detailed face with natural skin texture, calm pleasant expression, long dark wavy hair, subtle traditional makeup, wearing the SAME blue saree with matching blouse from the reference image, exact outfit continuity preserved, natural saree draping and realistic fabric texture, holding a bouquet of red roses in front, elegant standing pose with one hand touching the wall, balanced full body proportions, minimal modern interior background, soft neutral tones, professional editorial portrait photography aesthetic, high dynamic range, refined cinematic color grading, 4k detail, vertical composition, img2img transformation preserving facial identity, hairstyle, pose and clothing from source image, realistic lighting and shadows, no distortion, no extra limbs, no text, no watermark",
+    "category": "Women"
+  },
+  {
+    "id": 220,
+    "title": "Sunset Beach Portrait",
+    "imageUrl": "https://res.cloudinary.com/dywtfz6y8/image/upload/v1771396276/IMG_220_hixk1r.jpg",
+    "prompt": "ultra detailed cinematic portrait of a young man leaning casually against a car near a beach during sunset, realistic photography style, warm golden-orange sky with soft twilight tones, silhouettes of palm trees in background, subtle reflections on the car surface, highly detailed face with natural skin texture, curly styled hair, confident expression, wearing sunglasses, wearing the SAME light checkered shirt and dark trousers from the reference image, exact outfit continuity preserved, natural fabric folds and realistic clothing physics, relaxed leaning pose with one hand in pocket, cinematic lifestyle fashion photography aesthetic, shallow depth of field, dramatic natural lighting with warm highlights and soft shadows, high dynamic range, refined color grading, 4k detail, vertical composition, img2img transformation preserving facial identity, hairstyle, pose and clothing from source image, realistic lighting interaction, no distortion, no extra limbs, no text, no watermark",
+    "category": "Men"
+  }
+]
